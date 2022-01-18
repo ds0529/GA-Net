@@ -1,0 +1,2101 @@
+****EPOCH 0****
+Step 00000050 L_out=22.409 Acc=0.28 L_var=1.31 L_dis=1.31 L_reg=1.24---  724.73 ms/batch
+Step 00000100 L_out=17.274 Acc=0.44 L_var=0.42 L_dis=0.42 L_reg=0.75---  865.84 ms/batch
+Step 00000150 L_out=17.530 Acc=0.34 L_var=0.17 L_dis=0.17 L_reg=0.69---  793.60 ms/batch
+Step 00000200 L_out=17.623 Acc=0.41 L_var=0.05 L_dis=0.05 L_reg=0.70---  505.79 ms/batch
+Step 00000250 L_out=14.969 Acc=0.35 L_var=0.05 L_dis=0.05 L_reg=0.80---  714.01 ms/batch
+Step 00000300 L_out=14.442 Acc=0.48 L_var=0.03 L_dis=0.03 L_reg=0.73---  740.57 ms/batch
+Step 00000350 L_out=17.564 Acc=0.42 L_var=0.04 L_dis=0.04 L_reg=0.72---  701.17 ms/batch
+Step 00000400 L_out=17.330 Acc=0.44 L_var=0.05 L_dis=0.05 L_reg=0.78---  715.66 ms/batch
+Step 00000450 L_out=17.238 Acc=0.47 L_var=0.03 L_dis=0.03 L_reg=0.76---  697.53 ms/batch
+Step 00000500 L_out=15.031 Acc=0.46 L_var=0.02 L_dis=0.02 L_reg=0.76---  679.58 ms/batch
+eval accuracy: 0.45405205078125
+mean IOU:0.1655063750683225
+Mean IoU = 16.6%
+--------------------------------------------------------------------------------------
+16.55 | 67.43 83.12 26.87  0.07  0.00  0.00  4.84 15.94 11.60  0.00  0.00  0.00  5.28 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 16.551
+Best epoch is: 0
+Best step is: 501
+****EPOCH 1****
+Step 00000550 L_out=16.198 Acc=0.47 L_var=0.01 L_dis=0.01 L_reg=0.84---  670.02 ms/batch
+Step 00000600 L_out=14.114 Acc=0.56 L_var=0.00 L_dis=0.00 L_reg=0.85--- 1031.02 ms/batch
+Step 00000650 L_out=16.034 Acc=0.42 L_var=0.01 L_dis=0.01 L_reg=0.83---  473.12 ms/batch
+Step 00000700 L_out=10.689 Acc=0.65 L_var=0.02 L_dis=0.02 L_reg=0.77---  500.16 ms/batch
+Step 00000750 L_out=12.161 Acc=0.63 L_var=0.01 L_dis=0.01 L_reg=0.81--- 1005.53 ms/batch
+Step 00000800 L_out=12.047 Acc=0.60 L_var=0.01 L_dis=0.01 L_reg=0.83---  753.87 ms/batch
+Step 00000850 L_out=11.757 Acc=0.55 L_var=0.01 L_dis=0.01 L_reg=0.82---  896.89 ms/batch
+Step 00000900 L_out=9.469 Acc=0.61 L_var=0.01 L_dis=0.01 L_reg=0.90---  961.66 ms/batch
+Step 00000950 L_out=11.818 Acc=0.54 L_var=0.01 L_dis=0.01 L_reg=0.84---  716.20 ms/batch
+Step 00001000 L_out=12.263 Acc=0.58 L_var=0.01 L_dis=0.01 L_reg=0.86---  754.03 ms/batch
+eval accuracy: 0.23778797607421875
+mean IOU:0.10446722454702194
+Mean IoU = 10.4%
+--------------------------------------------------------------------------------------
+10.45 | 32.23 54.42 15.54  0.05  0.00  0.72 15.21  2.39 10.55  0.00  0.24  3.72  0.74 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 16.551
+Best epoch is: 0
+Best step is: 501
+****EPOCH 2****
+Step 00001050 L_out=10.242 Acc=0.66 L_var=0.01 L_dis=0.01 L_reg=0.88--- 1017.36 ms/batch
+Step 00001100 L_out=10.192 Acc=0.66 L_var=0.01 L_dis=0.01 L_reg=0.91---  905.54 ms/batch
+Step 00001150 L_out=8.916 Acc=0.76 L_var=0.01 L_dis=0.01 L_reg=0.89---  580.30 ms/batch
+Step 00001200 L_out=9.411 Acc=0.69 L_var=0.01 L_dis=0.01 L_reg=0.88---  491.46 ms/batch
+Step 00001250 L_out=7.991 Acc=0.69 L_var=0.01 L_dis=0.01 L_reg=0.89---  858.25 ms/batch
+Step 00001300 L_out=7.126 Acc=0.68 L_var=0.01 L_dis=0.01 L_reg=0.92---  923.17 ms/batch
+Step 00001350 L_out=9.926 Acc=0.63 L_var=0.01 L_dis=0.01 L_reg=0.91---  772.42 ms/batch
+Step 00001400 L_out=10.252 Acc=0.70 L_var=0.01 L_dis=0.01 L_reg=0.92---  525.62 ms/batch
+Step 00001450 L_out=8.256 Acc=0.69 L_var=0.01 L_dis=0.01 L_reg=0.91---  833.53 ms/batch
+Step 00001500 L_out=7.743 Acc=0.70 L_var=0.02 L_dis=0.02 L_reg=1.00---  731.08 ms/batch
+eval accuracy: 0.5178815307617187
+mean IOU:0.264535547206961
+Mean IoU = 26.5%
+--------------------------------------------------------------------------------------
+26.45 | 75.16 93.58 21.44  0.00  0.00 25.41  1.21 42.53 51.08  0.00  3.90  5.42 24.17 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 26.454
+Best epoch is: 2
+Best step is: 1501
+****EPOCH 3****
+Step 00001550 L_out=10.761 Acc=0.70 L_var=0.01 L_dis=0.01 L_reg=0.92---  488.05 ms/batch
+Step 00001600 L_out=6.132 Acc=0.76 L_var=0.01 L_dis=0.01 L_reg=0.85---  759.52 ms/batch
+Step 00001650 L_out=7.334 Acc=0.70 L_var=0.01 L_dis=0.01 L_reg=0.95---  746.75 ms/batch
+Step 00001700 L_out=5.843 Acc=0.76 L_var=0.02 L_dis=0.02 L_reg=1.00---  725.23 ms/batch
+Step 00001750 L_out=8.974 Acc=0.73 L_var=0.01 L_dis=0.01 L_reg=0.93---  696.20 ms/batch
+Step 00001800 L_out=6.833 Acc=0.78 L_var=0.01 L_dis=0.01 L_reg=0.95---  699.65 ms/batch
+Step 00001850 L_out=9.611 Acc=0.71 L_var=0.01 L_dis=0.01 L_reg=0.93---  661.31 ms/batch
+Step 00001900 L_out=9.255 Acc=0.69 L_var=0.01 L_dis=0.01 L_reg=0.99---  660.30 ms/batch
+Step 00001950 L_out=7.442 Acc=0.71 L_var=0.00 L_dis=0.00 L_reg=0.92---  486.55 ms/batch
+Step 00002000 L_out=8.271 Acc=0.68 L_var=0.01 L_dis=0.01 L_reg=0.94---  484.45 ms/batch
+eval accuracy: 0.6435095703125
+mean IOU:0.37508913436773184
+Mean IoU = 37.5%
+--------------------------------------------------------------------------------------
+37.51 | 87.98 94.50 33.40  0.00  0.00 31.63 16.01 60.44 63.10  8.71 48.71  6.60 36.53 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 37.509
+Best epoch is: 3
+Best step is: 2001
+****EPOCH 4****
+Step 00002050 L_out=7.648 Acc=0.68 L_var=0.01 L_dis=0.01 L_reg=0.94---  841.89 ms/batch
+Step 00002100 L_out=5.993 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.89---  876.35 ms/batch
+Step 00002150 L_out=6.742 Acc=0.74 L_var=0.01 L_dis=0.01 L_reg=0.92---  698.64 ms/batch
+Step 00002200 L_out=4.548 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.96---  682.39 ms/batch
+Step 00002250 L_out=4.887 Acc=0.78 L_var=0.00 L_dis=0.00 L_reg=0.88---  988.41 ms/batch
+Step 00002300 L_out=7.697 Acc=0.74 L_var=0.00 L_dis=0.00 L_reg=0.88---  880.22 ms/batch
+Step 00002350 L_out=4.466 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.88--- 1005.24 ms/batch
+Step 00002400 L_out=6.248 Acc=0.81 L_var=0.01 L_dis=0.01 L_reg=0.97---  749.95 ms/batch
+Step 00002450 L_out=5.370 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.90---  917.27 ms/batch
+Step 00002500 L_out=3.553 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.97---  773.68 ms/batch
+eval accuracy: 0.6891075927734375
+mean IOU:0.38069076846568134
+Mean IoU = 38.1%
+--------------------------------------------------------------------------------------
+38.07 | 83.69 93.19 54.37  0.11  7.79 35.33  9.44 43.52 58.84  7.65 53.07 22.70 25.18 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 38.069
+Best epoch is: 4
+Best step is: 2501
+****EPOCH 5****
+Step 00002550 L_out=6.140 Acc=0.76 L_var=0.00 L_dis=0.00 L_reg=0.93---  743.10 ms/batch
+Step 00002600 L_out=5.052 Acc=0.76 L_var=0.01 L_dis=0.01 L_reg=0.96---  487.02 ms/batch
+Step 00002650 L_out=5.199 Acc=0.75 L_var=0.01 L_dis=0.01 L_reg=0.97---  889.45 ms/batch
+Step 00002700 L_out=4.585 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.92---  666.32 ms/batch
+Step 00002750 L_out=5.022 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.93---  832.85 ms/batch
+Step 00002800 L_out=5.088 Acc=0.79 L_var=0.00 L_dis=0.00 L_reg=0.95---  579.88 ms/batch
+Step 00002850 L_out=4.994 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.95---  658.90 ms/batch
+Step 00002900 L_out=5.128 Acc=0.83 L_var=0.00 L_dis=0.00 L_reg=0.95---  859.05 ms/batch
+Step 00002950 L_out=4.691 Acc=0.83 L_var=0.00 L_dis=0.00 L_reg=0.95---  762.67 ms/batch
+Step 00003000 L_out=5.766 Acc=0.77 L_var=0.00 L_dis=0.00 L_reg=0.92---  844.30 ms/batch
+eval accuracy: 0.7497826416015625
+mean IOU:0.45813590323597686
+Mean IoU = 45.8%
+--------------------------------------------------------------------------------------
+45.81 | 88.85 94.35 61.03  0.00  8.90 42.14 25.21 56.77 56.80 39.82 58.10 28.25 35.35 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 45.814
+Best epoch is: 5
+Best step is: 3001
+****EPOCH 6****
+Step 00003050 L_out=5.921 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.96---  657.82 ms/batch
+Step 00003100 L_out=4.342 Acc=0.78 L_var=0.00 L_dis=0.00 L_reg=0.99---  583.67 ms/batch
+Step 00003150 L_out=4.918 Acc=0.83 L_var=0.00 L_dis=0.00 L_reg=0.94---  657.97 ms/batch
+Step 00003200 L_out=6.072 Acc=0.80 L_var=0.00 L_dis=0.00 L_reg=0.99---  481.70 ms/batch
+Step 00003250 L_out=6.498 Acc=0.78 L_var=0.00 L_dis=0.00 L_reg=0.95---  473.16 ms/batch
+Step 00003300 L_out=6.921 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.93---  885.82 ms/batch
+Step 00003350 L_out=5.361 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=1.02---  780.43 ms/batch
+Step 00003400 L_out=5.917 Acc=0.79 L_var=0.00 L_dis=0.00 L_reg=1.02---  746.81 ms/batch
+Step 00003450 L_out=4.479 Acc=0.83 L_var=0.01 L_dis=0.01 L_reg=0.95---  807.32 ms/batch
+Step 00003500 L_out=5.506 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.93---  767.41 ms/batch
+eval accuracy: 0.78708916015625
+mean IOU:0.48673697182704695
+Mean IoU = 48.7%
+--------------------------------------------------------------------------------------
+48.67 | 87.94 96.17 68.35  0.00  7.47 45.58 27.82 60.15 69.40 38.29 59.93 29.35 42.30 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 48.674
+Best epoch is: 6
+Best step is: 3501
+****EPOCH 7****
+Step 00003550 L_out=3.637 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.97---  610.69 ms/batch
+Step 00003600 L_out=3.766 Acc=0.84 L_var=0.01 L_dis=0.01 L_reg=1.00---  643.99 ms/batch
+Step 00003650 L_out=4.288 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.98---  894.77 ms/batch
+Step 00003700 L_out=3.798 Acc=0.82 L_var=0.00 L_dis=0.00 L_reg=0.96---  587.94 ms/batch
+Step 00003750 L_out=5.258 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.93---  904.77 ms/batch
+Step 00003800 L_out=4.226 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.90---  861.96 ms/batch
+Step 00003850 L_out=3.455 Acc=0.82 L_var=0.00 L_dis=0.00 L_reg=0.96---  961.08 ms/batch
+Step 00003900 L_out=6.307 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.93---  847.56 ms/batch
+Step 00003950 L_out=3.783 Acc=0.83 L_var=0.00 L_dis=0.00 L_reg=0.97---  608.25 ms/batch
+Step 00004000 L_out=3.417 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.92---  870.45 ms/batch
+eval accuracy: 0.7726836059570312
+mean IOU:0.48676903567477836
+Mean IoU = 48.7%
+--------------------------------------------------------------------------------------
+48.68 | 86.61 95.65 63.74  0.00 20.16 38.82 35.55 65.82 63.14 33.49 57.87 28.29 43.64 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 48.677
+Best epoch is: 7
+Best step is: 4001
+****EPOCH 8****
+Step 00004050 L_out=2.428 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.93--- 1043.35 ms/batch
+Step 00004100 L_out=2.045 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.92---  549.11 ms/batch
+Step 00004150 L_out=4.532 Acc=0.81 L_var=0.00 L_dis=0.00 L_reg=0.96---  876.45 ms/batch
+Step 00004200 L_out=4.641 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.94---  604.07 ms/batch
+Step 00004250 L_out=3.878 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.96---  732.62 ms/batch
+Step 00004300 L_out=2.805 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.98---  697.90 ms/batch
+Step 00004350 L_out=6.804 Acc=0.76 L_var=0.00 L_dis=0.00 L_reg=0.93---  584.87 ms/batch
+Step 00004400 L_out=3.259 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.95---  756.38 ms/batch
+Step 00004450 L_out=3.028 Acc=0.82 L_var=0.00 L_dis=0.00 L_reg=0.94---  798.79 ms/batch
+Step 00004500 L_out=3.710 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.94---  735.31 ms/batch
+eval accuracy: 0.7828934204101563
+mean IOU:0.5130006405574158
+Mean IoU = 51.3%
+--------------------------------------------------------------------------------------
+51.30 | 90.12 96.36 62.82  0.01 16.19 45.45 37.12 67.97 73.81 50.56 60.81 21.82 43.85 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 51.300
+Best epoch is: 8
+Best step is: 4501
+****EPOCH 9****
+Step 00004550 L_out=2.861 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.95---  482.20 ms/batch
+Step 00004600 L_out=3.108 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.94---  499.16 ms/batch
+Step 00004650 L_out=2.016 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.93---  707.93 ms/batch
+Step 00004700 L_out=4.545 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.94---  645.79 ms/batch
+Step 00004750 L_out=2.194 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.96---  588.53 ms/batch
+Step 00004800 L_out=4.039 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.92---  774.39 ms/batch
+Step 00004850 L_out=4.058 Acc=0.82 L_var=0.00 L_dis=0.00 L_reg=0.90---  794.72 ms/batch
+Step 00004900 L_out=3.102 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.94---  797.86 ms/batch
+Step 00004950 L_out=3.039 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.93---  914.20 ms/batch
+Step 00005000 L_out=3.550 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.93---  894.85 ms/batch
+eval accuracy: 0.752682373046875
+mean IOU:0.44475651569988955
+Mean IoU = 44.5%
+--------------------------------------------------------------------------------------
+44.48 | 89.51 95.39 58.86  0.00 13.70 28.79 26.92 51.13 71.33 25.40 61.42 12.92 42.80 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 51.300
+Best epoch is: 8
+Best step is: 4501
+****EPOCH 10****
+Step 00005050 L_out=2.868 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.94---  495.78 ms/batch
+Step 00005100 L_out=2.940 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.94---  921.61 ms/batch
+Step 00005150 L_out=2.590 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.92---  883.84 ms/batch
+Step 00005200 L_out=2.651 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.94---  904.68 ms/batch
+Step 00005250 L_out=2.895 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.94---  712.18 ms/batch
+Step 00005300 L_out=2.899 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.95---  885.34 ms/batch
+Step 00005350 L_out=2.023 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.95---  664.20 ms/batch
+Step 00005400 L_out=2.402 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.92---  492.57 ms/batch
+Step 00005450 L_out=3.122 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.93---  727.76 ms/batch
+Step 00005500 L_out=2.001 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.93---  778.85 ms/batch
+eval accuracy: 0.812055126953125
+mean IOU:0.5174946385429701
+Mean IoU = 51.7%
+--------------------------------------------------------------------------------------
+51.75 | 89.64 96.88 71.61  0.00  6.93 44.96 36.13 64.45 73.83 42.63 59.29 40.23 46.17 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 51.749
+Best epoch is: 10
+Best step is: 5501
+****EPOCH 11****
+Step 00005550 L_out=2.770 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.90---  822.95 ms/batch
+Step 00005600 L_out=2.782 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.89---  598.06 ms/batch
+Step 00005650 L_out=3.307 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.93---  552.76 ms/batch
+Step 00005700 L_out=3.844 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.91---  743.09 ms/batch
+Step 00005750 L_out=3.314 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.93---  745.35 ms/batch
+Step 00005800 L_out=3.335 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.92---  685.87 ms/batch
+Step 00005850 L_out=2.263 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.92---  703.36 ms/batch
+Step 00005900 L_out=2.557 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.89---  704.48 ms/batch
+Step 00005950 L_out=2.995 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.93---  661.98 ms/batch
+Step 00006000 L_out=2.303 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.92---  656.23 ms/batch
+eval accuracy: 0.8247849365234375
+mean IOU:0.5349060319757277
+Mean IoU = 53.5%
+--------------------------------------------------------------------------------------
+53.49 | 89.97 97.09 72.27  0.00 12.44 50.52 34.60 70.23 79.62 39.83 63.68 38.31 46.81 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 53.491
+Best epoch is: 11
+Best step is: 6001
+****EPOCH 12****
+Step 00006050 L_out=2.936 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.93---  489.85 ms/batch
+Step 00006100 L_out=2.884 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.93---  759.14 ms/batch
+Step 00006150 L_out=2.156 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.94---  718.45 ms/batch
+Step 00006200 L_out=2.056 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.92---  876.46 ms/batch
+Step 00006250 L_out=2.642 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.92---  589.08 ms/batch
+Step 00006300 L_out=2.421 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.90---  866.78 ms/batch
+Step 00006350 L_out=2.591 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.93---  775.48 ms/batch
+Step 00006400 L_out=3.265 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.91---  748.58 ms/batch
+Step 00006450 L_out=2.689 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.91---  585.41 ms/batch
+Step 00006500 L_out=2.737 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.89---  667.89 ms/batch
+eval accuracy: 0.8266287841796875
+mean IOU:0.5602361960399534
+Mean IoU = 56.0%
+--------------------------------------------------------------------------------------
+56.02 | 90.18 96.26 73.97  0.00 19.55 48.34 32.08 72.38 80.46 58.48 59.54 50.26 46.82 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 13****
+Step 00006550 L_out=2.975 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.90---  584.07 ms/batch
+Step 00006600 L_out=2.186 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.91---  805.14 ms/batch
+Step 00006650 L_out=2.600 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.89---  584.58 ms/batch
+Step 00006700 L_out=2.306 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.93---  489.88 ms/batch
+Step 00006750 L_out=2.715 Acc=0.86 L_var=0.00 L_dis=0.00 L_reg=0.90---  563.50 ms/batch
+Step 00006800 L_out=1.642 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.88---  949.36 ms/batch
+Step 00006850 L_out=2.340 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.88---  791.03 ms/batch
+Step 00006900 L_out=2.469 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.88---  860.72 ms/batch
+Step 00006950 L_out=2.348 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.91---  767.09 ms/batch
+Step 00007000 L_out=2.435 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.87---  523.83 ms/batch
+eval accuracy: 0.8170773315429688
+mean IOU:0.5303197693289353
+Mean IoU = 53.0%
+--------------------------------------------------------------------------------------
+53.03 | 86.97 94.08 74.45  0.00 17.94 40.59 33.59 69.87 78.41 52.41 61.14 34.66 45.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 14****
+Step 00007050 L_out=2.464 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.88---  679.77 ms/batch
+Step 00007100 L_out=2.649 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.89---  696.90 ms/batch
+Step 00007150 L_out=2.213 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.90---  694.81 ms/batch
+Step 00007200 L_out=2.514 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.87---  673.21 ms/batch
+Step 00007250 L_out=6.195 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.85---  637.67 ms/batch
+Step 00007300 L_out=2.426 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.91---  656.64 ms/batch
+Step 00007350 L_out=1.757 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.90---  485.15 ms/batch
+Step 00007400 L_out=2.487 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.89---  496.74 ms/batch
+Step 00007450 L_out=1.992 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.86---  490.49 ms/batch
+Step 00007500 L_out=2.759 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.85---  774.83 ms/batch
+eval accuracy: 0.8270179321289063
+mean IOU:0.5563428966737666
+Mean IoU = 55.6%
+--------------------------------------------------------------------------------------
+55.63 | 89.97 96.94 72.98  0.00 25.83 48.66 30.44 69.42 79.52 50.62 64.90 47.63 46.33 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 15****
+Step 00007550 L_out=1.582 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.89---  539.62 ms/batch
+Step 00007600 L_out=1.618 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.89---  835.70 ms/batch
+Step 00007650 L_out=1.964 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.86---  591.93 ms/batch
+Step 00007700 L_out=2.337 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.87---  783.66 ms/batch
+Step 00007750 L_out=1.903 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.89---  666.31 ms/batch
+Step 00007800 L_out=1.629 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.86---  692.27 ms/batch
+Step 00007850 L_out=1.248 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.83---  597.98 ms/batch
+Step 00007900 L_out=2.001 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.84---  766.47 ms/batch
+Step 00007950 L_out=1.649 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.89---  918.62 ms/batch
+Step 00008000 L_out=2.062 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.87---  719.47 ms/batch
+eval accuracy: 0.8163706176757812
+mean IOU:0.5245361887155339
+Mean IoU = 52.5%
+--------------------------------------------------------------------------------------
+52.45 | 88.58 94.14 72.46  0.00 10.57 46.07 37.10 61.84 76.23 35.12 60.02 56.33 43.44 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 16****
+Step 00008050 L_out=2.339 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.85---  792.53 ms/batch
+Step 00008100 L_out=2.451 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.86---  656.83 ms/batch
+Step 00008150 L_out=1.920 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.88---  686.84 ms/batch
+Step 00008200 L_out=2.089 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.88---  591.88 ms/batch
+Step 00008250 L_out=2.503 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.88---  900.98 ms/batch
+Step 00008300 L_out=1.763 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.85---  662.91 ms/batch
+Step 00008350 L_out=2.599 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.86---  844.78 ms/batch
+Step 00008400 L_out=3.245 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.88---  624.63 ms/batch
+Step 00008450 L_out=2.661 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.86---  832.56 ms/batch
+Step 00008500 L_out=3.384 Acc=0.90 L_var=0.01 L_dis=0.01 L_reg=0.87--- 1007.05 ms/batch
+eval accuracy: 0.7974763061523438
+mean IOU:0.5262705632806293
+Mean IoU = 52.6%
+--------------------------------------------------------------------------------------
+52.63 | 90.44 97.07 65.00  0.00 24.74 44.40 34.12 68.96 69.08 55.24 62.49 27.19 45.43 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 17****
+Step 00008550 L_out=1.868 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.85---  676.58 ms/batch
+Step 00008600 L_out=1.697 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.85---  673.34 ms/batch
+Step 00008650 L_out=1.663 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.85---  644.73 ms/batch
+Step 00008700 L_out=1.747 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.86---  487.46 ms/batch
+Step 00008750 L_out=2.444 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.85---  508.37 ms/batch
+Step 00008800 L_out=2.672 Acc=0.91 L_var=0.01 L_dis=0.01 L_reg=0.87---  778.93 ms/batch
+Step 00008850 L_out=1.473 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.85---  606.18 ms/batch
+Step 00008900 L_out=2.181 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.84---  673.84 ms/batch
+Step 00008950 L_out=3.175 Acc=0.84 L_var=0.00 L_dis=0.00 L_reg=0.87---  929.56 ms/batch
+Step 00009000 L_out=2.130 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.83---  989.82 ms/batch
+eval accuracy: 0.8229361450195313
+mean IOU:0.5343695374790504
+Mean IoU = 53.4%
+--------------------------------------------------------------------------------------
+53.44 | 90.12 95.65 73.21  0.02 12.50 43.21 42.23 65.84 80.27 42.93 65.24 35.75 47.72 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.024
+Best epoch is: 12
+Best step is: 6501
+****EPOCH 18****
+Step 00009050 L_out=1.803 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.86---  879.83 ms/batch
+Step 00009100 L_out=2.704 Acc=0.87 L_var=0.00 L_dis=0.00 L_reg=0.87---  849.89 ms/batch
+Step 00009150 L_out=2.043 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.86---  862.38 ms/batch
+Step 00009200 L_out=1.343 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.83---  495.35 ms/batch
+Step 00009250 L_out=2.992 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.88---  583.04 ms/batch
+Step 00009300 L_out=1.826 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.87---  999.73 ms/batch
+Step 00009350 L_out=2.394 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.85---  556.43 ms/batch
+Step 00009400 L_out=1.523 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  686.69 ms/batch
+Step 00009450 L_out=2.214 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.83---  713.73 ms/batch
+Step 00009500 L_out=2.022 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.81---  555.70 ms/batch
+eval accuracy: 0.8354085693359375
+mean IOU:0.5687328883999533
+Mean IoU = 56.9%
+--------------------------------------------------------------------------------------
+56.87 | 89.32 96.17 75.32  0.03 26.48 48.38 36.89 69.58 80.84 44.32 65.96 58.75 47.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.873
+Best epoch is: 18
+Best step is: 9501
+****EPOCH 19****
+Step 00009550 L_out=2.181 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  656.75 ms/batch
+Step 00009600 L_out=1.866 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.83---  680.46 ms/batch
+Step 00009650 L_out=1.353 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.85---  737.69 ms/batch
+Step 00009700 L_out=1.172 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.82---  833.34 ms/batch
+Step 00009750 L_out=2.009 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.84---  929.02 ms/batch
+Step 00009800 L_out=1.792 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  508.19 ms/batch
+Step 00009850 L_out=1.157 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.83---  481.63 ms/batch
+Step 00009900 L_out=1.728 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.83---  767.50 ms/batch
+Step 00009950 L_out=2.825 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.83---  723.67 ms/batch
+Step 00010000 L_out=2.117 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  686.49 ms/batch
+eval accuracy: 0.8324370361328125
+mean IOU:0.5604681421384847
+Mean IoU = 56.0%
+--------------------------------------------------------------------------------------
+56.05 | 90.13 95.95 74.05  0.01 24.04 50.39 27.12 70.44 78.98 59.55 66.26 42.83 48.87 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.873
+Best epoch is: 18
+Best step is: 9501
+****EPOCH 20****
+Step 00010050 L_out=1.892 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.84---  472.14 ms/batch
+Step 00010100 L_out=2.248 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.83---  483.89 ms/batch
+Step 00010150 L_out=1.907 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.82---  649.30 ms/batch
+Step 00010200 L_out=1.633 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  917.91 ms/batch
+Step 00010250 L_out=1.211 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.81---  972.64 ms/batch
+Step 00010300 L_out=1.220 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.81---  755.62 ms/batch
+Step 00010350 L_out=1.585 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.82---  580.80 ms/batch
+Step 00010400 L_out=1.673 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  836.14 ms/batch
+Step 00010450 L_out=2.147 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  846.49 ms/batch
+Step 00010500 L_out=1.925 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.82---  756.56 ms/batch
+eval accuracy: 0.83306220703125
+mean IOU:0.5682610378462379
+Mean IoU = 56.8%
+--------------------------------------------------------------------------------------
+56.83 | 90.11 96.33 75.02  0.00 25.42 46.32 36.10 71.53 81.23 52.30 63.82 51.96 48.60 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.873
+Best epoch is: 18
+Best step is: 9501
+****EPOCH 21****
+Step 00010550 L_out=1.946 Acc=0.90 L_var=0.00 L_dis=0.00 L_reg=0.83---  840.82 ms/batch
+Step 00010600 L_out=1.540 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  613.05 ms/batch
+Step 00010650 L_out=1.752 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.79---  901.05 ms/batch
+Step 00010700 L_out=1.670 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  779.38 ms/batch
+Step 00010750 L_out=1.899 Acc=0.89 L_var=0.00 L_dis=0.00 L_reg=0.83---  796.55 ms/batch
+Step 00010800 L_out=1.659 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  670.70 ms/batch
+Step 00010850 L_out=2.461 Acc=0.88 L_var=0.00 L_dis=0.00 L_reg=0.85---  482.22 ms/batch
+Step 00010900 L_out=2.067 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  511.34 ms/batch
+Step 00010950 L_out=1.409 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  739.60 ms/batch
+Step 00011000 L_out=1.501 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  798.42 ms/batch
+eval accuracy: 0.8374130126953125
+mean IOU:0.5635177301220066
+Mean IoU = 56.4%
+--------------------------------------------------------------------------------------
+56.35 | 90.11 95.65 75.29  0.00 20.30 49.07 33.46 71.96 78.77 51.04 67.23 50.68 49.02 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.873
+Best epoch is: 18
+Best step is: 9501
+****EPOCH 22****
+Step 00011050 L_out=1.484 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  729.06 ms/batch
+Step 00011100 L_out=1.494 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.81---  538.12 ms/batch
+Step 00011150 L_out=1.493 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.84---  770.56 ms/batch
+Step 00011200 L_out=1.283 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.81---  729.49 ms/batch
+Step 00011250 L_out=1.777 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.82---  731.32 ms/batch
+Step 00011300 L_out=1.963 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.81---  673.24 ms/batch
+Step 00011350 L_out=2.034 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.82---  697.45 ms/batch
+Step 00011400 L_out=1.382 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  660.46 ms/batch
+Step 00011450 L_out=1.236 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.80---  670.50 ms/batch
+Step 00011500 L_out=1.283 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.82---  647.07 ms/batch
+eval accuracy: 0.8315326538085938
+mean IOU:0.5655542936127366
+Mean IoU = 56.6%
+--------------------------------------------------------------------------------------
+56.56 | 88.94 96.74 75.15  0.01 24.71 47.49 37.97 72.48 78.21 50.14 64.00 52.27 47.10 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 56.873
+Best epoch is: 18
+Best step is: 9501
+****EPOCH 23****
+Step 00011550 L_out=1.408 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.81---  898.26 ms/batch
+Step 00011600 L_out=1.818 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  486.08 ms/batch
+Step 00011650 L_out=1.754 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.79---  689.09 ms/batch
+Step 00011700 L_out=1.716 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.80---  766.59 ms/batch
+Step 00011750 L_out=1.557 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.78---  578.02 ms/batch
+Step 00011800 L_out=1.497 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.79---  770.28 ms/batch
+Step 00011850 L_out=1.610 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.80---  735.92 ms/batch
+Step 00011900 L_out=1.820 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.79---  590.62 ms/batch
+Step 00011950 L_out=2.145 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.80---  978.81 ms/batch
+Step 00012000 L_out=1.915 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.80---  775.15 ms/batch
+eval accuracy: 0.8394506469726563
+mean IOU:0.5736096700317659
+Mean IoU = 57.4%
+--------------------------------------------------------------------------------------
+57.36 | 89.51 96.79 75.70  0.01 24.80 49.31 41.63 71.24 82.56 46.51 67.44 51.66 48.53 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 57.361
+Best epoch is: 23
+Best step is: 12001
+****EPOCH 24****
+Step 00012050 L_out=1.832 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.80---  769.60 ms/batch
+Step 00012100 L_out=1.916 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.80---  811.63 ms/batch
+Step 00012150 L_out=1.748 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.79---  884.45 ms/batch
+Step 00012200 L_out=1.978 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.80---  892.64 ms/batch
+Step 00012250 L_out=2.162 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.81---  533.56 ms/batch
+Step 00012300 L_out=1.696 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.78---  719.64 ms/batch
+Step 00012350 L_out=3.655 Acc=0.85 L_var=0.00 L_dis=0.00 L_reg=0.80---  518.54 ms/batch
+Step 00012400 L_out=1.605 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.81---  697.92 ms/batch
+Step 00012450 L_out=1.778 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.80---  856.85 ms/batch
+Step 00012500 L_out=1.550 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.82---  486.34 ms/batch
+eval accuracy: 0.8385096801757812
+mean IOU:0.5616433975713295
+Mean IoU = 56.2%
+--------------------------------------------------------------------------------------
+56.16 | 89.69 96.59 75.27  0.00 19.42 47.26 34.34 69.81 81.72 50.76 67.88 49.08 48.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 57.361
+Best epoch is: 23
+Best step is: 12001
+****EPOCH 25****
+Step 00012550 L_out=1.617 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.78---  704.10 ms/batch
+Step 00012600 L_out=1.258 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.81---  694.71 ms/batch
+Step 00012650 L_out=1.459 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.79---  688.04 ms/batch
+Step 00012700 L_out=1.722 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.77---  665.19 ms/batch
+Step 00012750 L_out=1.283 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.79---  642.70 ms/batch
+Step 00012800 L_out=1.930 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.79---  510.44 ms/batch
+Step 00012850 L_out=1.556 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.79---  485.75 ms/batch
+Step 00012900 L_out=1.990 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.78---  731.90 ms/batch
+Step 00012950 L_out=1.188 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  778.54 ms/batch
+Step 00013000 L_out=1.274 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.80---  966.92 ms/batch
+eval accuracy: 0.836901318359375
+mean IOU:0.5696019016980653
+Mean IoU = 57.0%
+--------------------------------------------------------------------------------------
+56.96 | 89.99 96.60 75.28  0.03 24.54 48.79 38.67 71.81 78.47 49.76 67.05 51.36 48.12 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 57.361
+Best epoch is: 23
+Best step is: 12001
+****EPOCH 26****
+Step 00013050 L_out=1.870 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.78---  649.52 ms/batch
+Step 00013100 L_out=1.597 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.79---  573.23 ms/batch
+Step 00013150 L_out=1.625 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.80---  852.27 ms/batch
+Step 00013200 L_out=1.208 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.78---  653.15 ms/batch
+Step 00013250 L_out=1.370 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.79---  501.32 ms/batch
+Step 00013300 L_out=1.796 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.79---  885.78 ms/batch
+Step 00013350 L_out=1.140 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.78---  689.96 ms/batch
+Step 00013400 L_out=1.200 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.78---  753.68 ms/batch
+Step 00013450 L_out=1.137 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.78---  706.02 ms/batch
+Step 00013500 L_out=1.624 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  591.98 ms/batch
+eval accuracy: 0.8400950439453125
+mean IOU:0.5795564411680775
+Mean IoU = 58.0%
+--------------------------------------------------------------------------------------
+57.96 | 89.87 96.76 75.09  0.00 23.84 49.79 39.06 73.31 81.57 60.53 66.66 48.06 48.88 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 57.956
+Best epoch is: 26
+Best step is: 13501
+****EPOCH 27****
+Step 00013550 L_out=1.038 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.77---  809.35 ms/batch
+Step 00013600 L_out=1.148 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.78---  612.61 ms/batch
+Step 00013650 L_out=1.123 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.79---  654.25 ms/batch
+Step 00013700 L_out=1.983 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.77---  770.89 ms/batch
+Step 00013750 L_out=1.444 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.80---  514.41 ms/batch
+Step 00013800 L_out=1.541 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.78---  783.99 ms/batch
+Step 00013850 L_out=1.138 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.80---  686.55 ms/batch
+Step 00013900 L_out=1.571 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  910.34 ms/batch
+Step 00013950 L_out=0.896 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.79---  756.59 ms/batch
+Step 00014000 L_out=1.529 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.75---  729.57 ms/batch
+eval accuracy: 0.8353724975585938
+mean IOU:0.574086484118623
+Mean IoU = 57.4%
+--------------------------------------------------------------------------------------
+57.41 | 90.42 97.14 75.95  0.01 24.46 45.69 33.21 70.85 82.99 53.71 64.07 60.54 47.27 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 57.956
+Best epoch is: 26
+Best step is: 13501
+****EPOCH 28****
+Step 00014050 L_out=1.410 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.78---  667.69 ms/batch
+Step 00014100 L_out=1.191 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.77---  671.20 ms/batch
+Step 00014150 L_out=1.537 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  486.38 ms/batch
+Step 00014200 L_out=1.601 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  482.87 ms/batch
+Step 00014250 L_out=1.651 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.76---  638.76 ms/batch
+Step 00014300 L_out=1.444 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  774.12 ms/batch
+Step 00014350 L_out=1.589 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  775.68 ms/batch
+Step 00014400 L_out=1.310 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.78---  631.31 ms/batch
+Step 00014450 L_out=1.404 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  584.79 ms/batch
+Step 00014500 L_out=1.283 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  581.51 ms/batch
+eval accuracy: 0.84095634765625
+mean IOU:0.5816106780052135
+Mean IoU = 58.2%
+--------------------------------------------------------------------------------------
+58.16 | 89.52 97.40 75.74  0.00 20.35 49.17 39.98 74.84 82.04 62.30 66.24 50.55 47.97 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.161
+Best epoch is: 28
+Best step is: 14501
+****EPOCH 29****
+Step 00014550 L_out=0.923 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  616.98 ms/batch
+Step 00014600 L_out=1.357 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.76---  745.60 ms/batch
+Step 00014650 L_out=1.613 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.80---  575.61 ms/batch
+Step 00014700 L_out=1.606 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  567.57 ms/batch
+Step 00014750 L_out=0.953 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.74---  585.16 ms/batch
+Step 00014800 L_out=1.375 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.77---  793.96 ms/batch
+Step 00014850 L_out=1.374 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  747.81 ms/batch
+Step 00014900 L_out=0.973 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.76---  521.76 ms/batch
+Step 00014950 L_out=0.898 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.76---  504.64 ms/batch
+Step 00015000 L_out=1.380 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  757.26 ms/batch
+eval accuracy: 0.8409331665039063
+mean IOU:0.5711474508272889
+Mean IoU = 57.1%
+--------------------------------------------------------------------------------------
+57.11 | 89.74 97.17 76.39  0.00 20.37 50.15 41.13 72.83 80.32 52.09 65.80 47.61 48.88 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.161
+Best epoch is: 28
+Best step is: 14501
+****EPOCH 30****
+Step 00015050 L_out=1.622 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  501.66 ms/batch
+Step 00015100 L_out=1.171 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  570.97 ms/batch
+Step 00015150 L_out=1.003 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.76---  862.74 ms/batch
+Step 00015200 L_out=1.215 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  825.19 ms/batch
+Step 00015250 L_out=1.805 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.77---  892.27 ms/batch
+Step 00015300 L_out=1.322 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  746.50 ms/batch
+Step 00015350 L_out=1.022 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.78---  721.77 ms/batch
+Step 00015400 L_out=1.671 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  682.06 ms/batch
+Step 00015450 L_out=1.482 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.75---  692.59 ms/batch
+Step 00015500 L_out=1.412 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.76---  674.92 ms/batch
+eval accuracy: 0.8316334594726562
+mean IOU:0.5717260777555846
+Mean IoU = 57.2%
+--------------------------------------------------------------------------------------
+57.17 | 89.65 97.11 73.56  0.00 22.53 45.40 40.41 72.17 83.09 59.99 66.56 45.78 47.01 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.161
+Best epoch is: 28
+Best step is: 14501
+****EPOCH 31****
+Step 00015550 L_out=1.201 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  592.16 ms/batch
+Step 00015600 L_out=1.126 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.77---  603.30 ms/batch
+Step 00015650 L_out=2.077 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.78---  589.36 ms/batch
+Step 00015700 L_out=1.201 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  506.67 ms/batch
+Step 00015750 L_out=1.385 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  881.88 ms/batch
+Step 00015800 L_out=1.217 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.79---  869.52 ms/batch
+Step 00015850 L_out=1.702 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  806.65 ms/batch
+Step 00015900 L_out=1.454 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  566.35 ms/batch
+Step 00015950 L_out=1.211 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  888.94 ms/batch
+Step 00016000 L_out=1.098 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.76---  890.31 ms/batch
+eval accuracy: 0.8424114501953125
+mean IOU:0.5877591338623831
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.78 | 90.53 96.80 76.75  0.00 25.11 49.36 40.22 70.86 80.77 60.98 66.52 56.13 50.05 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 32****
+Step 00016050 L_out=1.606 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.75---  691.76 ms/batch
+Step 00016100 L_out=0.901 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.75---  754.50 ms/batch
+Step 00016150 L_out=1.160 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.76---  533.57 ms/batch
+Step 00016200 L_out=0.918 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  577.04 ms/batch
+Step 00016250 L_out=1.739 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.77---  566.76 ms/batch
+Step 00016300 L_out=1.122 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.76---  640.95 ms/batch
+Step 00016350 L_out=1.194 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.75---  709.29 ms/batch
+Step 00016400 L_out=0.968 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  753.82 ms/batch
+Step 00016450 L_out=1.062 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.76---  721.41 ms/batch
+Step 00016500 L_out=0.847 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.76---  501.91 ms/batch
+eval accuracy: 0.8440797607421875
+mean IOU:0.5852847248676213
+Mean IoU = 58.5%
+--------------------------------------------------------------------------------------
+58.53 | 89.52 97.05 77.08  0.00 21.32 48.38 37.18 72.87 80.98 61.50 65.65 60.29 49.05 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 33****
+Step 00016550 L_out=1.505 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.75---  531.43 ms/batch
+Step 00016600 L_out=0.777 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.76---  710.26 ms/batch
+Step 00016650 L_out=1.488 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.76---  731.05 ms/batch
+Step 00016700 L_out=1.283 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  686.46 ms/batch
+Step 00016750 L_out=0.718 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.75---  696.53 ms/batch
+Step 00016800 L_out=0.769 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.76---  680.76 ms/batch
+Step 00016850 L_out=1.082 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  652.13 ms/batch
+Step 00016900 L_out=1.382 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.77---  646.79 ms/batch
+Step 00016950 L_out=1.341 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  475.17 ms/batch
+Step 00017000 L_out=0.938 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  489.51 ms/batch
+eval accuracy: 0.8426228637695312
+mean IOU:0.5775242264209681
+Mean IoU = 57.8%
+--------------------------------------------------------------------------------------
+57.75 | 89.46 96.98 76.89  0.06 20.75 50.05 36.96 72.19 82.57 55.73 65.61 55.22 48.30 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 34****
+Step 00017050 L_out=0.830 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  642.25 ms/batch
+Step 00017100 L_out=1.150 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  749.49 ms/batch
+Step 00017150 L_out=1.064 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  506.42 ms/batch
+Step 00017200 L_out=0.774 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.77---  786.44 ms/batch
+Step 00017250 L_out=1.021 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  873.76 ms/batch
+Step 00017300 L_out=0.997 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  574.73 ms/batch
+Step 00017350 L_out=1.010 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.76---  674.89 ms/batch
+Step 00017400 L_out=1.071 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  706.92 ms/batch
+Step 00017450 L_out=1.547 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.76---  697.11 ms/batch
+Step 00017500 L_out=0.992 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  704.71 ms/batch
+eval accuracy: 0.8411305419921875
+mean IOU:0.5705457974926275
+Mean IoU = 57.1%
+--------------------------------------------------------------------------------------
+57.05 | 89.26 96.98 76.14  0.04 16.13 47.52 33.52 73.55 82.64 55.79 66.32 55.28 48.55 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 35****
+Step 00017550 L_out=1.573 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.74---  537.95 ms/batch
+Step 00017600 L_out=1.381 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  570.51 ms/batch
+Step 00017650 L_out=1.137 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.76---  743.87 ms/batch
+Step 00017700 L_out=1.159 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74--- 1026.23 ms/batch
+Step 00017750 L_out=1.242 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.75---  841.38 ms/batch
+Step 00017800 L_out=1.158 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  805.55 ms/batch
+Step 00017850 L_out=1.335 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.73---  816.08 ms/batch
+Step 00017900 L_out=0.946 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  823.20 ms/batch
+Step 00017950 L_out=1.396 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.73---  879.47 ms/batch
+Step 00018000 L_out=1.297 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.74---  697.71 ms/batch
+eval accuracy: 0.8474193725585938
+mean IOU:0.5777961353185517
+Mean IoU = 57.8%
+--------------------------------------------------------------------------------------
+57.78 | 90.80 96.96 77.08  0.00 15.19 49.49 38.52 72.85 82.07 51.08 67.39 59.94 49.75 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 36****
+Step 00018050 L_out=1.515 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.77---  674.44 ms/batch
+Step 00018100 L_out=0.985 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  689.16 ms/batch
+Step 00018150 L_out=1.505 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.74---  636.50 ms/batch
+Step 00018200 L_out=1.041 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  655.54 ms/batch
+Step 00018250 L_out=1.080 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  502.89 ms/batch
+Step 00018300 L_out=1.067 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  493.15 ms/batch
+Step 00018350 L_out=1.450 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.75---  654.97 ms/batch
+Step 00018400 L_out=1.201 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  736.43 ms/batch
+Step 00018450 L_out=0.954 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  696.10 ms/batch
+Step 00018500 L_out=1.515 Acc=0.91 L_var=0.00 L_dis=0.00 L_reg=0.74---  887.33 ms/batch
+eval accuracy: 0.8320024780273437
+mean IOU:0.5659703329236069
+Mean IoU = 56.6%
+--------------------------------------------------------------------------------------
+56.60 | 89.56 96.84 73.30  0.04 15.96 51.47 37.57 73.64 82.96 47.75 66.66 51.99 48.03 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 37****
+Step 00018550 L_out=1.129 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73--- 1096.90 ms/batch
+Step 00018600 L_out=0.745 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  590.76 ms/batch
+Step 00018650 L_out=1.123 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  640.68 ms/batch
+Step 00018700 L_out=1.281 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  911.68 ms/batch
+Step 00018750 L_out=1.113 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  772.87 ms/batch
+Step 00018800 L_out=1.301 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.75---  807.60 ms/batch
+Step 00018850 L_out=1.371 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  609.77 ms/batch
+Step 00018900 L_out=0.969 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  591.15 ms/batch
+Step 00018950 L_out=1.138 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  695.01 ms/batch
+Step 00019000 L_out=1.307 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  655.19 ms/batch
+eval accuracy: 0.8456698120117188
+mean IOU:0.5771726971837635
+Mean IoU = 57.7%
+--------------------------------------------------------------------------------------
+57.72 | 89.74 96.95 76.54  0.00 23.27 51.31 37.93 73.41 82.84 47.27 67.60 53.71 49.77 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 38****
+Step 00019050 L_out=1.167 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.75---  745.56 ms/batch
+Step 00019100 L_out=1.458 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.75---  667.40 ms/batch
+Step 00019150 L_out=1.713 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  869.44 ms/batch
+Step 00019200 L_out=0.653 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  500.93 ms/batch
+Step 00019250 L_out=1.386 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  765.25 ms/batch
+Step 00019300 L_out=0.972 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  616.86 ms/batch
+Step 00019350 L_out=0.975 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  909.77 ms/batch
+Step 00019400 L_out=1.367 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  492.49 ms/batch
+Step 00019450 L_out=0.810 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.74---  756.71 ms/batch
+Step 00019500 L_out=0.951 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  700.75 ms/batch
+eval accuracy: 0.8444958862304688
+mean IOU:0.5801132989377987
+Mean IoU = 58.0%
+--------------------------------------------------------------------------------------
+58.01 | 90.80 97.16 75.86  0.09 21.01 49.78 36.19 74.94 82.85 49.96 67.93 57.70 49.88 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 58.776
+Best epoch is: 31
+Best step is: 16001
+****EPOCH 39****
+Step 00019550 L_out=1.633 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.73---  490.20 ms/batch
+Step 00019600 L_out=1.267 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  483.34 ms/batch
+Step 00019650 L_out=0.743 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.74---  798.52 ms/batch
+Step 00019700 L_out=1.228 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  548.82 ms/batch
+Step 00019750 L_out=0.831 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.73---  954.51 ms/batch
+Step 00019800 L_out=1.365 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.73---  946.71 ms/batch
+Step 00019850 L_out=1.113 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  645.22 ms/batch
+Step 00019900 L_out=1.533 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.75---  534.98 ms/batch
+Step 00019950 L_out=0.917 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  909.89 ms/batch
+Step 00020000 L_out=1.252 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  860.16 ms/batch
+eval accuracy: 0.8482491821289062
+mean IOU:0.5912219357998062
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.12 | 90.58 96.91 77.15  0.02 22.35 49.31 37.28 72.84 82.27 64.94 68.09 56.79 50.05 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 40****
+Step 00020050 L_out=1.144 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  619.31 ms/batch
+Step 00020100 L_out=1.265 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  725.09 ms/batch
+Step 00020150 L_out=1.318 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.74---  764.86 ms/batch
+Step 00020200 L_out=1.113 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  503.56 ms/batch
+Step 00020250 L_out=1.372 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  693.10 ms/batch
+Step 00020300 L_out=0.882 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.73---  888.22 ms/batch
+Step 00020350 L_out=0.688 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.73---  590.46 ms/batch
+Step 00020400 L_out=1.190 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  874.04 ms/batch
+Step 00020450 L_out=1.062 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  738.56 ms/batch
+Step 00020500 L_out=1.089 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  861.87 ms/batch
+eval accuracy: 0.8445378295898438
+mean IOU:0.5767033269622099
+Mean IoU = 57.7%
+--------------------------------------------------------------------------------------
+57.67 | 89.62 96.90 76.55  0.00 22.21 49.09 32.42 71.69 81.58 50.24 67.80 63.65 47.97 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 41****
+Step 00020550 L_out=0.828 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.73---  834.34 ms/batch
+Step 00020600 L_out=0.657 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.73---  789.92 ms/batch
+Step 00020650 L_out=1.264 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73--- 1009.98 ms/batch
+Step 00020700 L_out=1.077 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  484.55 ms/batch
+Step 00020750 L_out=0.922 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  745.43 ms/batch
+Step 00020800 L_out=1.216 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  691.58 ms/batch
+Step 00020850 L_out=1.182 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  687.22 ms/batch
+Step 00020900 L_out=1.326 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  651.62 ms/batch
+Step 00020950 L_out=1.082 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  662.66 ms/batch
+Step 00021000 L_out=1.040 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  645.87 ms/batch
+eval accuracy: 0.8472797485351562
+mean IOU:0.5813692204220826
+Mean IoU = 58.1%
+--------------------------------------------------------------------------------------
+58.14 | 90.32 97.04 76.86  0.00 22.64 51.34 33.46 72.40 82.46 52.49 68.25 58.31 50.20 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 42****
+Step 00021050 L_out=0.820 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  562.78 ms/batch
+Step 00021100 L_out=0.873 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  632.07 ms/batch
+Step 00021150 L_out=1.443 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.71---  636.83 ms/batch
+Step 00021200 L_out=1.204 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  921.24 ms/batch
+Step 00021250 L_out=1.017 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  994.24 ms/batch
+Step 00021300 L_out=1.210 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  917.88 ms/batch
+Step 00021350 L_out=1.329 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.73---  816.76 ms/batch
+Step 00021400 L_out=1.199 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  740.79 ms/batch
+Step 00021450 L_out=1.119 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  560.43 ms/batch
+Step 00021500 L_out=0.960 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  694.57 ms/batch
+eval accuracy: 0.8491309204101563
+mean IOU:0.5883421813860962
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.83 | 90.84 97.31 77.52  0.01 21.42 49.95 39.04 73.65 83.53 57.48 67.63 56.15 50.33 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 43****
+Step 00021550 L_out=1.073 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  680.67 ms/batch
+Step 00021600 L_out=1.019 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  563.70 ms/batch
+Step 00021650 L_out=0.846 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  591.03 ms/batch
+Step 00021700 L_out=1.244 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.71---  835.90 ms/batch
+Step 00021750 L_out=1.280 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  881.91 ms/batch
+Step 00021800 L_out=0.867 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  986.87 ms/batch
+Step 00021850 L_out=1.403 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  819.36 ms/batch
+Step 00021900 L_out=1.142 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  637.18 ms/batch
+Step 00021950 L_out=0.958 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  826.90 ms/batch
+Step 00022000 L_out=0.925 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  734.47 ms/batch
+eval accuracy: 0.8489095458984375
+mean IOU:0.5822151549558116
+Mean IoU = 58.2%
+--------------------------------------------------------------------------------------
+58.22 | 90.20 96.83 77.25  0.01 24.17 50.88 38.85 74.15 83.31 44.28 68.10 58.74 50.10 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 44****
+Step 00022050 L_out=0.642 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.75---  725.57 ms/batch
+Step 00022100 L_out=0.612 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.71---  702.80 ms/batch
+Step 00022150 L_out=1.228 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  702.55 ms/batch
+Step 00022200 L_out=1.101 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  490.01 ms/batch
+Step 00022250 L_out=0.720 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  663.99 ms/batch
+Step 00022300 L_out=0.819 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  667.57 ms/batch
+Step 00022350 L_out=1.400 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  483.38 ms/batch
+Step 00022400 L_out=1.187 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  498.67 ms/batch
+Step 00022450 L_out=1.467 Acc=0.92 L_var=0.00 L_dis=0.00 L_reg=0.73---  721.15 ms/batch
+Step 00022500 L_out=0.973 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  515.68 ms/batch
+eval accuracy: 0.849124755859375
+mean IOU:0.5782314180016557
+Mean IoU = 57.8%
+--------------------------------------------------------------------------------------
+57.82 | 90.66 97.44 77.63  0.01 19.80 51.73 35.78 73.74 83.95 45.67 67.55 58.02 49.71 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 45****
+Step 00022550 L_out=0.979 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.73---  811.68 ms/batch
+Step 00022600 L_out=1.306 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.71---  531.56 ms/batch
+Step 00022650 L_out=1.221 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.73---  552.15 ms/batch
+Step 00022700 L_out=1.340 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.71---  969.13 ms/batch
+Step 00022750 L_out=0.576 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  749.33 ms/batch
+Step 00022800 L_out=1.506 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  514.82 ms/batch
+Step 00022850 L_out=1.363 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  782.86 ms/batch
+Step 00022900 L_out=1.109 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  712.13 ms/batch
+Step 00022950 L_out=1.377 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.72---  583.71 ms/batch
+Step 00023000 L_out=0.858 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  632.55 ms/batch
+eval accuracy: 0.84567587890625
+mean IOU:0.5752060899726993
+Mean IoU = 57.5%
+--------------------------------------------------------------------------------------
+57.52 | 90.71 97.44 76.74  0.01 13.70 51.15 38.98 74.11 83.12 54.71 66.67 50.30 50.12 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.122
+Best epoch is: 39
+Best step is: 20001
+****EPOCH 46****
+Step 00023050 L_out=0.639 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.70---  583.09 ms/batch
+Step 00023100 L_out=0.577 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.71---  610.34 ms/batch
+Step 00023150 L_out=0.930 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.73---  878.26 ms/batch
+Step 00023200 L_out=1.098 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  545.56 ms/batch
+Step 00023250 L_out=0.612 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.72---  624.57 ms/batch
+Step 00023300 L_out=0.554 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  913.90 ms/batch
+Step 00023350 L_out=0.805 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  681.27 ms/batch
+Step 00023400 L_out=0.865 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  693.54 ms/batch
+Step 00023450 L_out=0.977 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  957.74 ms/batch
+Step 00023500 L_out=1.192 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  497.91 ms/batch
+eval accuracy: 0.84959619140625
+mean IOU:0.5921743034621841
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.22 | 90.70 97.26 77.34  0.01 21.04 51.19 35.60 73.63 83.76 61.98 68.24 58.91 50.18 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.217
+Best epoch is: 46
+Best step is: 23501
+****EPOCH 47****
+Step 00023550 L_out=1.143 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  640.21 ms/batch
+Step 00023600 L_out=1.186 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  651.39 ms/batch
+Step 00023650 L_out=1.167 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  468.18 ms/batch
+Step 00023700 L_out=1.333 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.72---  482.81 ms/batch
+Step 00023750 L_out=1.335 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.70---  862.57 ms/batch
+Step 00023800 L_out=1.054 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  791.28 ms/batch
+Step 00023850 L_out=1.230 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  857.33 ms/batch
+Step 00023900 L_out=0.805 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  495.45 ms/batch
+Step 00023950 L_out=1.238 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  615.62 ms/batch
+Step 00024000 L_out=1.094 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  835.58 ms/batch
+eval accuracy: 0.846879736328125
+mean IOU:0.5819305983095868
+Mean IoU = 58.2%
+--------------------------------------------------------------------------------------
+58.19 | 90.57 97.07 77.27  0.00 17.29 50.32 34.96 71.69 82.63 58.33 67.70 58.86 49.82 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.217
+Best epoch is: 46
+Best step is: 23501
+****EPOCH 48****
+Step 00024050 L_out=1.019 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  494.28 ms/batch
+Step 00024100 L_out=0.958 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  736.01 ms/batch
+Step 00024150 L_out=1.045 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  565.98 ms/batch
+Step 00024200 L_out=1.052 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  776.49 ms/batch
+Step 00024250 L_out=1.100 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  635.00 ms/batch
+Step 00024300 L_out=1.209 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  875.73 ms/batch
+Step 00024350 L_out=0.854 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.69---  605.49 ms/batch
+Step 00024400 L_out=1.109 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  760.64 ms/batch
+Step 00024450 L_out=0.802 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  698.49 ms/batch
+Step 00024500 L_out=1.043 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  847.55 ms/batch
+eval accuracy: 0.8482650756835938
+mean IOU:0.5897795190264188
+Mean IoU = 59.0%
+--------------------------------------------------------------------------------------
+58.98 | 89.99 97.03 77.18  0.05 20.17 50.88 35.56 73.88 83.64 58.60 67.91 61.46 50.36 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.217
+Best epoch is: 46
+Best step is: 23501
+****EPOCH 49****
+Step 00024550 L_out=1.105 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  788.42 ms/batch
+Step 00024600 L_out=0.747 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  662.52 ms/batch
+Step 00024650 L_out=0.811 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  503.22 ms/batch
+Step 00024700 L_out=0.878 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  687.78 ms/batch
+Step 00024750 L_out=1.018 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  821.82 ms/batch
+Step 00024800 L_out=1.135 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.72---  488.20 ms/batch
+Step 00024850 L_out=1.170 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  740.01 ms/batch
+Step 00024900 L_out=0.689 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  711.51 ms/batch
+Step 00024950 L_out=1.271 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  691.79 ms/batch
+Step 00025000 L_out=0.889 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  686.90 ms/batch
+eval accuracy: 0.850743115234375
+mean IOU:0.5932385545495388
+Mean IoU = 59.3%
+--------------------------------------------------------------------------------------
+59.32 | 90.57 97.34 77.48  0.01 21.55 50.41 39.29 72.90 83.79 61.97 68.10 57.30 50.50 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 50****
+Step 00025050 L_out=1.054 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  508.27 ms/batch
+Step 00025100 L_out=1.194 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  695.90 ms/batch
+Step 00025150 L_out=0.950 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  784.87 ms/batch
+Step 00025200 L_out=1.055 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  861.11 ms/batch
+Step 00025250 L_out=0.942 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  755.14 ms/batch
+Step 00025300 L_out=1.008 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  686.98 ms/batch
+Step 00025350 L_out=0.980 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  573.16 ms/batch
+Step 00025400 L_out=0.781 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  904.86 ms/batch
+Step 00025450 L_out=0.967 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  516.02 ms/batch
+Step 00025500 L_out=1.337 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  856.77 ms/batch
+eval accuracy: 0.849743994140625
+mean IOU:0.5855398194238878
+Mean IoU = 58.6%
+--------------------------------------------------------------------------------------
+58.55 | 90.75 96.80 77.27  0.03 20.05 51.09 39.72 73.34 83.66 50.60 67.65 59.97 50.27 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 51****
+Step 00025550 L_out=1.094 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  512.08 ms/batch
+Step 00025600 L_out=0.686 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.73---  523.49 ms/batch
+Step 00025650 L_out=0.846 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  758.08 ms/batch
+Step 00025700 L_out=0.967 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  676.53 ms/batch
+Step 00025750 L_out=0.972 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  736.12 ms/batch
+Step 00025800 L_out=1.519 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.70---  861.43 ms/batch
+Step 00025850 L_out=0.914 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  905.58 ms/batch
+Step 00025900 L_out=0.928 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  883.25 ms/batch
+Step 00025950 L_out=0.743 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  580.46 ms/batch
+Step 00026000 L_out=0.837 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.70---  568.81 ms/batch
+eval accuracy: 0.8490895874023437
+mean IOU:0.5842105847844492
+Mean IoU = 58.4%
+--------------------------------------------------------------------------------------
+58.42 | 90.73 97.17 77.10  0.02 19.30 51.22 38.90 73.98 83.69 52.82 67.62 56.34 50.60 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 52****
+Step 00026050 L_out=0.921 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  884.53 ms/batch
+Step 00026100 L_out=0.625 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  645.30 ms/batch
+Step 00026150 L_out=0.538 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.70---  739.36 ms/batch
+Step 00026200 L_out=1.073 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  738.63 ms/batch
+Step 00026250 L_out=0.816 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  627.78 ms/batch
+Step 00026300 L_out=0.743 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  683.05 ms/batch
+Step 00026350 L_out=1.357 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  668.77 ms/batch
+Step 00026400 L_out=1.243 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  644.04 ms/batch
+Step 00026450 L_out=1.092 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  690.94 ms/batch
+Step 00026500 L_out=0.572 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.69---  482.31 ms/batch
+eval accuracy: 0.8493600830078125
+mean IOU:0.5822662415889154
+Mean IoU = 58.2%
+--------------------------------------------------------------------------------------
+58.23 | 90.51 97.02 77.22  0.00 17.73 50.84 39.79 74.88 83.68 55.25 68.11 51.01 50.91 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 53****
+Step 00026550 L_out=0.809 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  732.61 ms/batch
+Step 00026600 L_out=1.107 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  626.37 ms/batch
+Step 00026650 L_out=0.923 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  843.42 ms/batch
+Step 00026700 L_out=1.176 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  585.95 ms/batch
+Step 00026750 L_out=0.752 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  666.21 ms/batch
+Step 00026800 L_out=1.202 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  609.89 ms/batch
+Step 00026850 L_out=0.771 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  895.81 ms/batch
+Step 00026900 L_out=1.425 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.71---  554.48 ms/batch
+Step 00026950 L_out=0.915 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  622.83 ms/batch
+Step 00027000 L_out=1.363 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  865.93 ms/batch
+eval accuracy: 0.8539557250976563
+mean IOU:0.5915256330369577
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.15 | 91.00 97.02 77.97  0.01 19.68 51.69 37.48 74.24 84.63 55.81 68.62 59.00 51.84 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 54****
+Step 00027050 L_out=1.302 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  780.94 ms/batch
+Step 00027100 L_out=0.992 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71---  650.31 ms/batch
+Step 00027150 L_out=1.030 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  761.78 ms/batch
+Step 00027200 L_out=1.028 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  728.12 ms/batch
+Step 00027250 L_out=1.064 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  555.65 ms/batch
+Step 00027300 L_out=0.618 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  774.78 ms/batch
+Step 00027350 L_out=1.078 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  746.90 ms/batch
+Step 00027400 L_out=0.784 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  825.46 ms/batch
+Step 00027450 L_out=0.724 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  918.32 ms/batch
+Step 00027500 L_out=0.973 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  751.57 ms/batch
+eval accuracy: 0.8511432861328125
+mean IOU:0.5880896039962388
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.81 | 90.57 97.13 77.63  0.01 17.91 50.01 39.51 73.48 82.93 58.41 68.50 57.66 50.77 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 55****
+Step 00027550 L_out=0.753 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  664.53 ms/batch
+Step 00027600 L_out=0.705 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  660.36 ms/batch
+Step 00027650 L_out=1.155 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  678.73 ms/batch
+Step 00027700 L_out=0.926 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  650.31 ms/batch
+Step 00027750 L_out=0.928 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  485.24 ms/batch
+Step 00027800 L_out=0.973 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  487.77 ms/batch
+Step 00027850 L_out=0.921 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  605.74 ms/batch
+Step 00027900 L_out=0.970 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  892.58 ms/batch
+Step 00027950 L_out=0.944 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  962.78 ms/batch
+Step 00028000 L_out=0.949 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.72---  482.73 ms/batch
+eval accuracy: 0.8512671752929688
+mean IOU:0.588507379402816
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.85 | 91.23 97.07 77.34  0.01 17.59 51.39 39.14 74.02 83.86 59.74 67.90 54.09 51.68 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 56****
+Step 00028050 L_out=0.773 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  716.39 ms/batch
+Step 00028100 L_out=1.000 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  980.80 ms/batch
+Step 00028150 L_out=0.975 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  867.27 ms/batch
+Step 00028200 L_out=1.090 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  694.26 ms/batch
+Step 00028250 L_out=1.160 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  765.55 ms/batch
+Step 00028300 L_out=0.962 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  512.02 ms/batch
+Step 00028350 L_out=1.064 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  906.00 ms/batch
+Step 00028400 L_out=0.820 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  500.49 ms/batch
+Step 00028450 L_out=1.202 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  974.17 ms/batch
+Step 00028500 L_out=0.808 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  820.40 ms/batch
+eval accuracy: 0.8521922119140625
+mean IOU:0.589990504396556
+Mean IoU = 59.0%
+--------------------------------------------------------------------------------------
+59.00 | 90.77 97.35 77.77  0.08 22.32 50.69 36.65 74.48 83.80 54.01 68.55 60.20 50.33 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 57****
+Step 00028550 L_out=1.056 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  580.30 ms/batch
+Step 00028600 L_out=0.543 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  800.94 ms/batch
+Step 00028650 L_out=0.641 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.69---  664.75 ms/batch
+Step 00028700 L_out=0.865 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  565.40 ms/batch
+Step 00028750 L_out=1.074 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  820.85 ms/batch
+Step 00028800 L_out=1.039 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  744.83 ms/batch
+Step 00028850 L_out=0.636 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  760.56 ms/batch
+Step 00028900 L_out=0.892 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  725.06 ms/batch
+Step 00028950 L_out=1.003 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  697.39 ms/batch
+Step 00029000 L_out=0.450 Acc=0.98 L_var=0.00 L_dis=0.00 L_reg=0.67---  667.46 ms/batch
+eval accuracy: 0.8537084838867187
+mean IOU:0.5896670099673906
+Mean IoU = 59.0%
+--------------------------------------------------------------------------------------
+58.97 | 91.34 97.29 78.21  0.02 18.67 50.57 38.53 74.37 83.27 55.31 67.92 59.71 51.36 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.324
+Best epoch is: 49
+Best step is: 25001
+****EPOCH 58****
+Step 00029050 L_out=0.564 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  490.42 ms/batch
+Step 00029100 L_out=1.183 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69--- 1027.64 ms/batch
+Step 00029150 L_out=0.835 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  787.29 ms/batch
+Step 00029200 L_out=0.895 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  823.32 ms/batch
+Step 00029250 L_out=1.628 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.68---  896.77 ms/batch
+Step 00029300 L_out=0.629 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  954.95 ms/batch
+Step 00029350 L_out=0.980 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  703.60 ms/batch
+Step 00029400 L_out=1.040 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  599.46 ms/batch
+Step 00029450 L_out=0.846 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  884.77 ms/batch
+Step 00029500 L_out=1.355 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  812.83 ms/batch
+eval accuracy: 0.852889892578125
+mean IOU:0.5932878881440349
+Mean IoU = 59.3%
+--------------------------------------------------------------------------------------
+59.33 | 91.27 97.26 77.78  0.01 18.54 51.37 39.82 74.33 84.29 57.78 67.84 59.73 51.26 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.329
+Best epoch is: 58
+Best step is: 29501
+****EPOCH 59****
+Step 00029550 L_out=0.930 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  743.91 ms/batch
+Step 00029600 L_out=0.935 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68--- 1045.25 ms/batch
+Step 00029650 L_out=0.585 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  867.02 ms/batch
+Step 00029700 L_out=1.378 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  799.88 ms/batch
+Step 00029750 L_out=0.921 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.71---  891.76 ms/batch
+Step 00029800 L_out=1.118 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.71--- 1057.11 ms/batch
+Step 00029850 L_out=1.144 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  861.65 ms/batch
+Step 00029900 L_out=0.804 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66--- 1100.56 ms/batch
+Step 00029950 L_out=1.097 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  618.84 ms/batch
+Step 00030000 L_out=0.570 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  490.17 ms/batch
+eval accuracy: 0.8528254150390625
+mean IOU:0.5844967454021186
+Mean IoU = 58.4%
+--------------------------------------------------------------------------------------
+58.45 | 91.15 97.23 77.67  0.08 17.05 50.82 34.95 74.72 83.70 53.94 68.38 58.58 51.56 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.329
+Best epoch is: 58
+Best step is: 29501
+****EPOCH 60****
+Step 00030050 L_out=1.276 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  752.37 ms/batch
+Step 00030100 L_out=1.071 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  854.75 ms/batch
+Step 00030150 L_out=0.816 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  754.10 ms/batch
+Step 00030200 L_out=1.134 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  738.80 ms/batch
+Step 00030250 L_out=0.882 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  669.88 ms/batch
+Step 00030300 L_out=0.859 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  670.91 ms/batch
+Step 00030350 L_out=0.826 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  678.70 ms/batch
+Step 00030400 L_out=0.990 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  616.47 ms/batch
+Step 00030450 L_out=1.112 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  643.20 ms/batch
+Step 00030500 L_out=0.789 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  485.18 ms/batch
+eval accuracy: 0.8547116577148437
+mean IOU:0.5951560098186799
+Mean IoU = 59.5%
+--------------------------------------------------------------------------------------
+59.52 | 91.21 97.09 78.33  0.02 17.02 49.99 42.92 74.74 84.41 57.56 67.98 61.17 51.26 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 61****
+Step 00030550 L_out=1.033 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  714.59 ms/batch
+Step 00030600 L_out=0.899 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  608.98 ms/batch
+Step 00030650 L_out=0.935 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69--- 1073.56 ms/batch
+Step 00030700 L_out=0.643 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  616.42 ms/batch
+Step 00030750 L_out=1.071 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  730.92 ms/batch
+Step 00030800 L_out=0.900 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  763.57 ms/batch
+Step 00030850 L_out=0.625 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  919.29 ms/batch
+Step 00030900 L_out=0.882 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  643.62 ms/batch
+Step 00030950 L_out=1.236 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  672.47 ms/batch
+Step 00031000 L_out=0.772 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  860.62 ms/batch
+eval accuracy: 0.8539833251953125
+mean IOU:0.5948815261178522
+Mean IoU = 59.5%
+--------------------------------------------------------------------------------------
+59.49 | 90.85 97.33 78.62  0.03 19.36 51.26 41.12 74.64 83.58 56.54 67.55 61.73 50.74 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 62****
+Step 00031050 L_out=1.031 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  739.61 ms/batch
+Step 00031100 L_out=0.928 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68--- 1036.80 ms/batch
+Step 00031150 L_out=1.011 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  746.97 ms/batch
+Step 00031200 L_out=0.854 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  548.72 ms/batch
+Step 00031250 L_out=0.898 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  791.82 ms/batch
+Step 00031300 L_out=1.175 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.70---  700.57 ms/batch
+Step 00031350 L_out=0.894 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  498.35 ms/batch
+Step 00031400 L_out=0.961 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  792.71 ms/batch
+Step 00031450 L_out=1.083 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  569.20 ms/batch
+Step 00031500 L_out=0.727 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  696.68 ms/batch
+eval accuracy: 0.8528261962890625
+mean IOU:0.5882581080120861
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.83 | 90.72 97.18 78.08  0.04 18.61 51.32 39.89 73.11 84.08 53.65 68.51 58.90 50.63 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 63****
+Step 00031550 L_out=0.880 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  683.51 ms/batch
+Step 00031600 L_out=0.846 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  656.85 ms/batch
+Step 00031650 L_out=0.806 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  651.15 ms/batch
+Step 00031700 L_out=0.840 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  637.66 ms/batch
+Step 00031750 L_out=1.331 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  501.02 ms/batch
+Step 00031800 L_out=0.903 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  488.85 ms/batch
+Step 00031850 L_out=1.156 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  744.35 ms/batch
+Step 00031900 L_out=0.846 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  610.01 ms/batch
+Step 00031950 L_out=0.892 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  558.46 ms/batch
+Step 00032000 L_out=1.045 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  912.29 ms/batch
+eval accuracy: 0.852543994140625
+mean IOU:0.5870530557725476
+Mean IoU = 58.7%
+--------------------------------------------------------------------------------------
+58.71 | 90.85 97.25 78.02  0.02 18.01 49.22 39.69 73.04 83.85 57.38 68.25 56.65 50.95 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 64****
+Step 00032050 L_out=0.786 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  688.77 ms/batch
+Step 00032100 L_out=1.086 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  654.04 ms/batch
+Step 00032150 L_out=0.757 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  728.32 ms/batch
+Step 00032200 L_out=0.728 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  991.55 ms/batch
+Step 00032250 L_out=1.072 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  562.67 ms/batch
+Step 00032300 L_out=1.021 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  660.31 ms/batch
+Step 00032350 L_out=0.825 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  592.95 ms/batch
+Step 00032400 L_out=0.746 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  933.64 ms/batch
+Step 00032450 L_out=0.712 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  827.71 ms/batch
+Step 00032500 L_out=0.659 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  691.62 ms/batch
+eval accuracy: 0.8541450317382813
+mean IOU:0.5922782415224117
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.23 | 91.22 97.29 78.18  0.05 18.26 51.79 40.59 73.99 83.42 56.84 68.13 58.95 51.27 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 65****
+Step 00032550 L_out=0.768 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69--- 1036.14 ms/batch
+Step 00032600 L_out=0.859 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  578.55 ms/batch
+Step 00032650 L_out=0.582 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  612.59 ms/batch
+Step 00032700 L_out=0.926 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  938.64 ms/batch
+Step 00032750 L_out=0.702 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.71---  816.27 ms/batch
+Step 00032800 L_out=1.340 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.68---  731.02 ms/batch
+Step 00032850 L_out=0.905 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  484.72 ms/batch
+Step 00032900 L_out=0.925 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  762.98 ms/batch
+Step 00032950 L_out=1.335 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  726.22 ms/batch
+Step 00033000 L_out=0.929 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  694.25 ms/batch
+eval accuracy: 0.8528402709960937
+mean IOU:0.591027592418144
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.10 | 91.07 97.18 77.99  0.03 19.03 50.77 40.67 74.81 83.63 53.46 68.17 61.05 50.46 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 66****
+Step 00033050 L_out=0.734 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  482.28 ms/batch
+Step 00033100 L_out=0.664 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  579.65 ms/batch
+Step 00033150 L_out=1.084 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  806.01 ms/batch
+Step 00033200 L_out=0.963 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  715.60 ms/batch
+Step 00033250 L_out=0.836 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.70---  831.27 ms/batch
+Step 00033300 L_out=1.061 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  578.40 ms/batch
+Step 00033350 L_out=0.936 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  666.94 ms/batch
+Step 00033400 L_out=1.102 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  779.87 ms/batch
+Step 00033450 L_out=0.864 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  575.01 ms/batch
+Step 00033500 L_out=1.042 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  700.92 ms/batch
+eval accuracy: 0.853445654296875
+mean IOU:0.5866484167711677
+Mean IoU = 58.7%
+--------------------------------------------------------------------------------------
+58.66 | 91.10 97.11 78.40  0.06 17.09 50.53 37.52 73.88 83.71 54.64 67.97 59.95 50.67 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 67****
+Step 00033550 L_out=0.856 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  485.24 ms/batch
+Step 00033600 L_out=0.721 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.70---  862.95 ms/batch
+Step 00033650 L_out=0.687 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  876.82 ms/batch
+Step 00033700 L_out=0.871 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  827.59 ms/batch
+Step 00033750 L_out=0.781 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  705.09 ms/batch
+Step 00033800 L_out=1.172 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  794.47 ms/batch
+Step 00033850 L_out=0.791 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  537.77 ms/batch
+Step 00033900 L_out=1.159 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  533.85 ms/batch
+Step 00033950 L_out=0.885 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  867.18 ms/batch
+Step 00034000 L_out=0.914 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  814.08 ms/batch
+eval accuracy: 0.8540718627929688
+mean IOU:0.5948678944108005
+Mean IoU = 59.5%
+--------------------------------------------------------------------------------------
+59.49 | 91.14 97.21 77.95  0.01 19.73 51.13 39.89 74.61 84.60 55.87 68.35 61.59 51.22 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 68****
+Step 00034050 L_out=1.183 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  968.94 ms/batch
+Step 00034100 L_out=0.981 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  883.12 ms/batch
+Step 00034150 L_out=0.581 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  757.37 ms/batch
+Step 00034200 L_out=0.970 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  729.08 ms/batch
+Step 00034250 L_out=0.642 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  683.46 ms/batch
+Step 00034300 L_out=0.746 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  672.64 ms/batch
+Step 00034350 L_out=1.033 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  664.26 ms/batch
+Step 00034400 L_out=0.700 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  658.70 ms/batch
+Step 00034450 L_out=1.184 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  638.32 ms/batch
+Step 00034500 L_out=0.571 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  481.40 ms/batch
+eval accuracy: 0.85340810546875
+mean IOU:0.5901489765244409
+Mean IoU = 59.0%
+--------------------------------------------------------------------------------------
+59.01 | 91.43 97.12 77.67  0.03 18.00 50.89 37.78 73.86 83.79 55.07 68.33 61.53 51.69 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.516
+Best epoch is: 60
+Best step is: 30501
+****EPOCH 69****
+Step 00034550 L_out=1.023 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  787.05 ms/batch
+Step 00034600 L_out=1.090 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  843.20 ms/batch
+Step 00034650 L_out=0.933 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  609.06 ms/batch
+Step 00034700 L_out=1.085 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  906.07 ms/batch
+Step 00034750 L_out=0.686 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  829.19 ms/batch
+Step 00034800 L_out=0.816 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67--- 1016.32 ms/batch
+Step 00034850 L_out=0.849 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  585.55 ms/batch
+Step 00034900 L_out=0.870 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  752.87 ms/batch
+Step 00034950 L_out=1.261 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  754.13 ms/batch
+Step 00035000 L_out=0.844 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  730.99 ms/batch
+eval accuracy: 0.8528423095703125
+mean IOU:0.599283861025095
+Mean IoU = 59.9%
+--------------------------------------------------------------------------------------
+59.93 | 91.30 97.25 77.67  0.03 24.03 50.77 38.22 75.05 83.80 61.46 68.09 59.89 51.51 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 70****
+Step 00035050 L_out=0.955 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  727.05 ms/batch
+Step 00035100 L_out=0.769 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  812.19 ms/batch
+Step 00035150 L_out=0.956 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67--- 1030.57 ms/batch
+Step 00035200 L_out=0.831 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  715.37 ms/batch
+Step 00035250 L_out=1.308 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  723.96 ms/batch
+Step 00035300 L_out=1.203 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.69---  691.19 ms/batch
+Step 00035350 L_out=0.867 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  836.88 ms/batch
+Step 00035400 L_out=0.822 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  604.64 ms/batch
+Step 00035450 L_out=0.967 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  714.81 ms/batch
+Step 00035500 L_out=0.612 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  666.34 ms/batch
+eval accuracy: 0.85315771484375
+mean IOU:0.5946475101546915
+Mean IoU = 59.5%
+--------------------------------------------------------------------------------------
+59.46 | 91.31 97.21 78.09  0.05 19.52 51.61 39.27 74.18 83.78 58.64 67.72 60.83 50.83 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 71****
+Step 00035550 L_out=0.704 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  673.55 ms/batch
+Step 00035600 L_out=0.975 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  693.59 ms/batch
+Step 00035650 L_out=0.704 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  645.65 ms/batch
+Step 00035700 L_out=0.865 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  666.66 ms/batch
+Step 00035750 L_out=0.763 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  643.03 ms/batch
+Step 00035800 L_out=0.523 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  477.19 ms/batch
+Step 00035850 L_out=0.738 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  506.67 ms/batch
+Step 00035900 L_out=0.708 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  690.17 ms/batch
+Step 00035950 L_out=0.557 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  553.31 ms/batch
+Step 00036000 L_out=0.679 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67--- 1014.40 ms/batch
+eval accuracy: 0.8532527465820312
+mean IOU:0.5908885722594094
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.09 | 91.02 97.11 78.04  0.04 18.46 50.86 38.54 74.49 84.10 56.00 68.27 60.30 50.90 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 72****
+Step 00036050 L_out=1.262 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  613.13 ms/batch
+Step 00036100 L_out=1.122 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  919.94 ms/batch
+Step 00036150 L_out=0.724 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  698.40 ms/batch
+Step 00036200 L_out=0.972 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  562.44 ms/batch
+Step 00036250 L_out=1.062 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  900.68 ms/batch
+Step 00036300 L_out=0.671 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  787.69 ms/batch
+Step 00036350 L_out=1.338 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  811.86 ms/batch
+Step 00036400 L_out=0.889 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  693.02 ms/batch
+Step 00036450 L_out=0.871 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  545.59 ms/batch
+Step 00036500 L_out=0.756 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  849.15 ms/batch
+eval accuracy: 0.8515699096679687
+mean IOU:0.5880902609930799
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.81 | 90.78 97.10 77.95  0.02 19.72 50.66 38.85 73.70 83.57 55.86 67.86 57.68 50.77 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 73****
+Step 00036550 L_out=0.640 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  756.30 ms/batch
+Step 00036600 L_out=0.853 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  705.34 ms/batch
+Step 00036650 L_out=0.670 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  916.69 ms/batch
+Step 00036700 L_out=0.649 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  661.51 ms/batch
+Step 00036750 L_out=0.669 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  782.15 ms/batch
+Step 00036800 L_out=0.744 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  510.07 ms/batch
+Step 00036850 L_out=1.020 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68--- 1016.10 ms/batch
+Step 00036900 L_out=0.876 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  605.65 ms/batch
+Step 00036950 L_out=1.082 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  753.48 ms/batch
+Step 00037000 L_out=0.767 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  727.27 ms/batch
+eval accuracy: 0.8530865112304687
+mean IOU:0.587925961698285
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.79 | 90.96 97.33 78.08  0.03 18.43 51.90 37.65 73.50 83.49 55.24 67.75 59.06 50.88 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 74****
+Step 00037050 L_out=0.914 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  685.64 ms/batch
+Step 00037100 L_out=0.992 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  489.49 ms/batch
+Step 00037150 L_out=0.995 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  484.46 ms/batch
+Step 00037200 L_out=0.689 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  587.74 ms/batch
+Step 00037250 L_out=1.160 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  662.65 ms/batch
+Step 00037300 L_out=0.561 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.69---  753.42 ms/batch
+Step 00037350 L_out=0.750 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  989.96 ms/batch
+Step 00037400 L_out=1.126 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  940.32 ms/batch
+Step 00037450 L_out=1.054 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  589.76 ms/batch
+Step 00037500 L_out=1.089 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  702.88 ms/batch
+eval accuracy: 0.8528830932617187
+mean IOU:0.5912397921839122
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.12 | 91.05 97.26 77.93  0.01 17.80 50.84 37.47 74.42 84.05 58.40 68.07 60.40 50.91 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 75****
+Step 00037550 L_out=1.024 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68--- 1042.28 ms/batch
+Step 00037600 L_out=0.825 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  635.93 ms/batch
+Step 00037650 L_out=0.703 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  529.96 ms/batch
+Step 00037700 L_out=0.876 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  589.47 ms/batch
+Step 00037750 L_out=0.750 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  690.85 ms/batch
+Step 00037800 L_out=0.602 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  972.27 ms/batch
+Step 00037850 L_out=1.050 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  757.64 ms/batch
+Step 00037900 L_out=1.079 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  807.81 ms/batch
+Step 00037950 L_out=0.865 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  767.82 ms/batch
+Step 00038000 L_out=1.198 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  751.33 ms/batch
+eval accuracy: 0.854421484375
+mean IOU:0.592684730723296
+Mean IoU = 59.3%
+--------------------------------------------------------------------------------------
+59.27 | 91.24 97.31 78.21  0.02 17.97 51.21 40.15 74.02 83.77 58.07 68.08 59.08 51.36 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 76****
+Step 00038050 L_out=1.183 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  668.76 ms/batch
+Step 00038100 L_out=0.733 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  496.20 ms/batch
+Step 00038150 L_out=1.001 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  755.31 ms/batch
+Step 00038200 L_out=1.105 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  495.04 ms/batch
+Step 00038250 L_out=1.081 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  740.98 ms/batch
+Step 00038300 L_out=1.181 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  684.73 ms/batch
+Step 00038350 L_out=1.239 Acc=0.93 L_var=0.00 L_dis=0.00 L_reg=0.68---  723.78 ms/batch
+Step 00038400 L_out=0.963 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  682.67 ms/batch
+Step 00038450 L_out=0.819 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  663.88 ms/batch
+Step 00038500 L_out=0.752 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  649.06 ms/batch
+eval accuracy: 0.8525870239257812
+mean IOU:0.588217652971533
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.82 | 91.03 97.08 78.20  0.04 17.08 52.35 39.07 73.86 83.55 54.69 67.79 59.76 50.19 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 77****
+Step 00038550 L_out=0.909 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  568.05 ms/batch
+Step 00038600 L_out=0.574 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  574.30 ms/batch
+Step 00038650 L_out=0.880 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  883.06 ms/batch
+Step 00038700 L_out=0.695 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  817.51 ms/batch
+Step 00038750 L_out=0.855 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  797.38 ms/batch
+Step 00038800 L_out=0.896 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  721.89 ms/batch
+Step 00038850 L_out=0.738 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  787.74 ms/batch
+Step 00038900 L_out=0.805 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  604.15 ms/batch
+Step 00038950 L_out=0.937 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  923.69 ms/batch
+Step 00039000 L_out=1.149 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  885.68 ms/batch
+eval accuracy: 0.8530515991210937
+mean IOU:0.5908023562380825
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.08 | 90.96 96.98 78.29  0.01 18.69 50.65 38.08 74.09 84.06 55.60 68.14 61.53 50.95 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 78****
+Step 00039050 L_out=1.214 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  805.24 ms/batch
+Step 00039100 L_out=0.788 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  592.26 ms/batch
+Step 00039150 L_out=0.864 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  760.79 ms/batch
+Step 00039200 L_out=0.845 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  780.19 ms/batch
+Step 00039250 L_out=1.210 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  978.82 ms/batch
+Step 00039300 L_out=1.069 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  502.30 ms/batch
+Step 00039350 L_out=1.039 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  754.59 ms/batch
+Step 00039400 L_out=1.207 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  708.24 ms/batch
+Step 00039450 L_out=0.746 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  696.93 ms/batch
+Step 00039500 L_out=0.826 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  883.52 ms/batch
+eval accuracy: 0.8526202758789062
+mean IOU:0.5886565955696329
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.87 | 91.17 97.35 77.82  0.10 18.67 51.39 36.41 73.94 83.98 54.07 67.80 61.42 51.16 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 79****
+Step 00039550 L_out=0.637 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  739.08 ms/batch
+Step 00039600 L_out=0.987 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  689.02 ms/batch
+Step 00039650 L_out=0.912 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  677.88 ms/batch
+Step 00039700 L_out=0.731 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  647.22 ms/batch
+Step 00039750 L_out=1.096 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  646.01 ms/batch
+Step 00039800 L_out=0.817 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  664.38 ms/batch
+Step 00039850 L_out=0.726 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  486.94 ms/batch
+Step 00039900 L_out=0.942 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  480.47 ms/batch
+Step 00039950 L_out=1.005 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  582.97 ms/batch
+Step 00040000 L_out=0.923 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.69---  558.52 ms/batch
+eval accuracy: 0.8527614135742188
+mean IOU:0.5917036698589396
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.17 | 91.09 97.35 78.09  0.02 18.76 50.99 36.74 73.66 83.74 57.75 67.87 62.33 50.82 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 80****
+Step 00040050 L_out=0.682 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  727.28 ms/batch
+Step 00040100 L_out=0.843 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  503.31 ms/batch
+Step 00040150 L_out=0.744 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  942.99 ms/batch
+Step 00040200 L_out=0.969 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  540.91 ms/batch
+Step 00040250 L_out=1.041 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  956.17 ms/batch
+Step 00040300 L_out=0.728 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  590.33 ms/batch
+Step 00040350 L_out=0.836 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  887.34 ms/batch
+Step 00040400 L_out=0.542 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  543.25 ms/batch
+Step 00040450 L_out=0.776 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  681.69 ms/batch
+Step 00040500 L_out=0.714 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  480.20 ms/batch
+eval accuracy: 0.852575927734375
+mean IOU:0.586221496828318
+Mean IoU = 58.6%
+--------------------------------------------------------------------------------------
+58.62 | 91.27 97.31 77.85  0.03 17.32 51.19 37.06 74.06 83.32 54.96 68.28 58.52 50.91 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 81****
+Step 00040550 L_out=0.690 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  491.14 ms/batch
+Step 00040600 L_out=0.636 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  608.22 ms/batch
+Step 00040650 L_out=0.777 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  498.67 ms/batch
+Step 00040700 L_out=1.097 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  741.78 ms/batch
+Step 00040750 L_out=0.968 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  687.67 ms/batch
+Step 00040800 L_out=0.925 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  500.20 ms/batch
+Step 00040850 L_out=1.011 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  861.03 ms/batch
+Step 00040900 L_out=0.625 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  781.90 ms/batch
+Step 00040950 L_out=0.906 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  485.17 ms/batch
+Step 00041000 L_out=0.758 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  733.70 ms/batch
+eval accuracy: 0.8528683715820312
+mean IOU:0.5886399785789791
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.86 | 91.17 97.28 78.06  0.02 17.05 51.25 37.49 74.48 83.65 55.33 67.94 61.06 50.44 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 82****
+Step 00041050 L_out=0.822 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  637.44 ms/batch
+Step 00041100 L_out=0.869 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  493.58 ms/batch
+Step 00041150 L_out=1.014 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  491.64 ms/batch
+Step 00041200 L_out=0.597 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  838.70 ms/batch
+Step 00041250 L_out=0.821 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  720.53 ms/batch
+Step 00041300 L_out=1.047 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  759.29 ms/batch
+Step 00041350 L_out=0.756 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  786.32 ms/batch
+Step 00041400 L_out=0.656 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  914.61 ms/batch
+Step 00041450 L_out=0.665 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  888.43 ms/batch
+Step 00041500 L_out=0.931 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  575.27 ms/batch
+eval accuracy: 0.8538342651367188
+mean IOU:0.5938776386516726
+Mean IoU = 59.4%
+--------------------------------------------------------------------------------------
+59.39 | 91.15 97.25 78.20  0.02 19.20 51.91 38.57 74.45 83.58 57.99 67.72 60.87 51.12 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 83****
+Step 00041550 L_out=1.139 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.66---  691.27 ms/batch
+Step 00041600 L_out=0.932 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  663.14 ms/batch
+Step 00041650 L_out=0.973 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  907.70 ms/batch
+Step 00041700 L_out=0.571 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  515.74 ms/batch
+Step 00041750 L_out=1.130 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  511.57 ms/batch
+Step 00041800 L_out=0.613 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  664.30 ms/batch
+Step 00041850 L_out=0.765 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  769.93 ms/batch
+Step 00041900 L_out=0.797 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  830.62 ms/batch
+Step 00041950 L_out=0.877 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  893.46 ms/batch
+Step 00042000 L_out=0.792 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  481.08 ms/batch
+eval accuracy: 0.8523568115234375
+mean IOU:0.5869328692911849
+Mean IoU = 58.7%
+--------------------------------------------------------------------------------------
+58.69 | 90.76 97.21 78.06  0.07 19.41 50.43 37.26 73.43 83.78 51.37 68.06 62.41 50.77 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 84****
+Step 00042050 L_out=1.020 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  557.23 ms/batch
+Step 00042100 L_out=0.727 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  776.86 ms/batch
+Step 00042150 L_out=0.683 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  735.77 ms/batch
+Step 00042200 L_out=0.817 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  490.42 ms/batch
+Step 00042250 L_out=0.996 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  743.93 ms/batch
+Step 00042300 L_out=0.923 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  686.26 ms/batch
+Step 00042350 L_out=0.979 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  694.48 ms/batch
+Step 00042400 L_out=0.681 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  674.24 ms/batch
+Step 00042450 L_out=1.048 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  690.87 ms/batch
+Step 00042500 L_out=0.655 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  656.21 ms/batch
+eval accuracy: 0.8532561157226562
+mean IOU:0.5932025270491754
+Mean IoU = 59.3%
+--------------------------------------------------------------------------------------
+59.32 | 91.17 97.25 77.81  0.05 21.24 51.05 37.19 74.45 83.97 55.65 68.44 61.82 51.06 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 85****
+Step 00042550 L_out=0.826 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  563.08 ms/batch
+Step 00042600 L_out=0.686 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  605.12 ms/batch
+Step 00042650 L_out=0.913 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  669.20 ms/batch
+Step 00042700 L_out=0.990 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  723.50 ms/batch
+Step 00042750 L_out=0.684 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  638.24 ms/batch
+Step 00042800 L_out=0.939 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  609.83 ms/batch
+Step 00042850 L_out=0.942 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  497.40 ms/batch
+Step 00042900 L_out=1.032 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  705.01 ms/batch
+Step 00042950 L_out=0.894 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  654.10 ms/batch
+Step 00043000 L_out=0.707 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.69---  718.13 ms/batch
+eval accuracy: 0.8540466430664062
+mean IOU:0.5912648610449163
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.13 | 91.06 97.34 78.25  0.05 18.32 51.73 37.81 74.36 83.84 55.82 68.17 61.15 50.75 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 86****
+Step 00043050 L_out=0.648 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  758.77 ms/batch
+Step 00043100 L_out=1.458 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  867.33 ms/batch
+Step 00043150 L_out=0.708 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  838.35 ms/batch
+Step 00043200 L_out=0.534 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  783.25 ms/batch
+Step 00043250 L_out=0.955 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  518.71 ms/batch
+Step 00043300 L_out=0.750 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  526.30 ms/batch
+Step 00043350 L_out=0.773 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  899.61 ms/batch
+Step 00043400 L_out=0.822 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  845.68 ms/batch
+Step 00043450 L_out=0.779 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  706.61 ms/batch
+Step 00043500 L_out=1.019 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  889.89 ms/batch
+eval accuracy: 0.8519900756835938
+mean IOU:0.5888763074770271
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.89 | 90.82 97.24 78.09  0.06 18.91 50.31 37.45 74.14 84.09 55.39 67.63 60.84 50.57 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 87****
+Step 00043550 L_out=0.645 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  692.43 ms/batch
+Step 00043600 L_out=0.968 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  689.89 ms/batch
+Step 00043650 L_out=0.847 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  671.67 ms/batch
+Step 00043700 L_out=0.686 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  669.47 ms/batch
+Step 00043750 L_out=1.262 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  665.80 ms/batch
+Step 00043800 L_out=0.955 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  646.76 ms/batch
+Step 00043850 L_out=0.996 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  489.05 ms/batch
+Step 00043900 L_out=0.600 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  494.42 ms/batch
+Step 00043950 L_out=0.857 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  698.77 ms/batch
+Step 00044000 L_out=1.219 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  796.52 ms/batch
+eval accuracy: 0.8533865112304687
+mean IOU:0.5931127573597911
+Mean IoU = 59.3%
+--------------------------------------------------------------------------------------
+59.31 | 91.28 97.26 78.31  0.06 19.21 50.67 36.47 74.28 83.33 58.57 68.05 62.64 50.92 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 88****
+Step 00044050 L_out=0.822 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  498.85 ms/batch
+Step 00044100 L_out=0.781 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  492.30 ms/batch
+Step 00044150 L_out=0.890 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  503.35 ms/batch
+Step 00044200 L_out=0.889 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  477.35 ms/batch
+Step 00044250 L_out=0.611 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  501.04 ms/batch
+Step 00044300 L_out=0.900 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  499.18 ms/batch
+Step 00044350 L_out=0.843 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  493.62 ms/batch
+Step 00044400 L_out=0.829 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  488.90 ms/batch
+Step 00044450 L_out=0.756 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  479.33 ms/batch
+Step 00044500 L_out=0.421 Acc=0.98 L_var=0.00 L_dis=0.00 L_reg=0.64---  477.94 ms/batch
+eval accuracy: 0.8535252685546875
+mean IOU:0.5874810466133062
+Mean IoU = 58.7%
+--------------------------------------------------------------------------------------
+58.75 | 91.08 97.30 78.34  0.03 19.51 51.38 36.52 74.06 83.47 51.99 67.96 61.41 50.68 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 89****
+Step 00044550 L_out=0.805 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  483.85 ms/batch
+Step 00044600 L_out=0.845 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  484.73 ms/batch
+Step 00044650 L_out=0.780 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  488.43 ms/batch
+Step 00044700 L_out=0.749 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  493.89 ms/batch
+Step 00044750 L_out=0.641 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  483.70 ms/batch
+Step 00044800 L_out=1.026 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  490.31 ms/batch
+Step 00044850 L_out=0.724 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  480.43 ms/batch
+Step 00044900 L_out=0.756 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  487.86 ms/batch
+Step 00044950 L_out=1.072 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.66---  487.57 ms/batch
+Step 00045000 L_out=0.689 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  478.15 ms/batch
+eval accuracy: 0.8531229125976563
+mean IOU:0.5937019795385499
+Mean IoU = 59.4%
+--------------------------------------------------------------------------------------
+59.37 | 91.16 97.28 78.26  0.04 18.93 51.83 37.46 74.29 83.81 59.08 67.54 61.50 50.65 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 90****
+Step 00045050 L_out=0.791 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  472.57 ms/batch
+Step 00045100 L_out=0.627 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.68---  473.34 ms/batch
+Step 00045150 L_out=0.641 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  486.31 ms/batch
+Step 00045200 L_out=0.719 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  471.42 ms/batch
+Step 00045250 L_out=0.635 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  474.10 ms/batch
+Step 00045300 L_out=0.778 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  481.14 ms/batch
+Step 00045350 L_out=0.853 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  479.99 ms/batch
+Step 00045400 L_out=0.667 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  487.64 ms/batch
+Step 00045450 L_out=0.711 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  483.66 ms/batch
+Step 00045500 L_out=1.299 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  485.02 ms/batch
+eval accuracy: 0.8525013061523438
+mean IOU:0.5901628387878419
+Mean IoU = 59.0%
+--------------------------------------------------------------------------------------
+59.02 | 91.20 97.17 77.88  0.03 19.24 50.31 37.85 73.98 83.56 56.12 68.20 60.62 51.06 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 91****
+Step 00045550 L_out=0.930 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  488.72 ms/batch
+Step 00045600 L_out=0.777 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.68---  488.09 ms/batch
+Step 00045650 L_out=0.909 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  484.29 ms/batch
+Step 00045700 L_out=0.915 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  480.03 ms/batch
+Step 00045750 L_out=0.677 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  470.55 ms/batch
+Step 00045800 L_out=0.614 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  492.21 ms/batch
+Step 00045850 L_out=0.834 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  482.86 ms/batch
+Step 00045900 L_out=1.215 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  478.44 ms/batch
+Step 00045950 L_out=0.905 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  476.20 ms/batch
+Step 00046000 L_out=0.796 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  485.82 ms/batch
+eval accuracy: 0.8545700439453126
+mean IOU:0.5923119147530698
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.23 | 91.30 97.07 78.20  0.05 19.29 51.29 38.98 74.14 84.16 55.99 68.34 60.05 51.16 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 92****
+Step 00046050 L_out=1.171 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  495.41 ms/batch
+Step 00046100 L_out=0.970 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  502.23 ms/batch
+Step 00046150 L_out=0.650 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  482.29 ms/batch
+Step 00046200 L_out=0.617 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  480.15 ms/batch
+Step 00046250 L_out=1.066 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  472.20 ms/batch
+Step 00046300 L_out=0.612 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  483.60 ms/batch
+Step 00046350 L_out=0.856 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  475.62 ms/batch
+Step 00046400 L_out=0.882 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  500.00 ms/batch
+Step 00046450 L_out=1.220 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  482.06 ms/batch
+Step 00046500 L_out=0.829 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  478.06 ms/batch
+eval accuracy: 0.8546191650390625
+mean IOU:0.5915192185328294
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.15 | 91.46 97.32 78.30  0.03 19.73 51.52 36.86 74.18 83.80 57.02 68.21 59.12 51.43 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 93****
+Step 00046550 L_out=1.096 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  495.77 ms/batch
+Step 00046600 L_out=0.907 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  488.75 ms/batch
+Step 00046650 L_out=0.703 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  497.67 ms/batch
+Step 00046700 L_out=0.836 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  484.86 ms/batch
+Step 00046750 L_out=0.671 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  479.31 ms/batch
+Step 00046800 L_out=0.993 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  469.05 ms/batch
+Step 00046850 L_out=0.790 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  500.91 ms/batch
+Step 00046900 L_out=0.686 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.67---  500.76 ms/batch
+Step 00046950 L_out=0.716 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  493.36 ms/batch
+Step 00047000 L_out=0.738 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  478.98 ms/batch
+eval accuracy: 0.8538446166992187
+mean IOU:0.5919623110027307
+Mean IoU = 59.2%
+--------------------------------------------------------------------------------------
+59.20 | 91.30 97.34 77.93  0.06 20.46 51.66 38.78 74.03 83.77 54.89 68.26 60.06 51.02 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 94****
+Step 00047050 L_out=0.683 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  490.52 ms/batch
+Step 00047100 L_out=0.817 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  501.52 ms/batch
+Step 00047150 L_out=0.682 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  488.88 ms/batch
+Step 00047200 L_out=0.661 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  499.82 ms/batch
+Step 00047250 L_out=0.995 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  483.32 ms/batch
+Step 00047300 L_out=0.755 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  484.22 ms/batch
+Step 00047350 L_out=0.976 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  481.11 ms/batch
+Step 00047400 L_out=1.035 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  495.02 ms/batch
+Step 00047450 L_out=0.948 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  495.57 ms/batch
+Step 00047500 L_out=0.915 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  481.30 ms/batch
+eval accuracy: 0.8532121826171875
+mean IOU:0.5893412480542966
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.93 | 91.30 97.35 77.99  0.01 18.38 50.49 37.91 74.26 83.51 56.88 68.09 58.86 51.11 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 95****
+Step 00047550 L_out=1.106 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  488.22 ms/batch
+Step 00047600 L_out=0.776 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  483.38 ms/batch
+Step 00047650 L_out=0.801 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  482.68 ms/batch
+Step 00047700 L_out=0.982 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  494.28 ms/batch
+Step 00047750 L_out=0.800 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  479.59 ms/batch
+Step 00047800 L_out=1.330 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.66---  478.24 ms/batch
+Step 00047850 L_out=0.809 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  493.18 ms/batch
+Step 00047900 L_out=0.918 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  485.70 ms/batch
+Step 00047950 L_out=0.841 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  491.93 ms/batch
+Step 00048000 L_out=0.785 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  477.02 ms/batch
+eval accuracy: 0.85346171875
+mean IOU:0.5907450475163488
+Mean IoU = 59.1%
+--------------------------------------------------------------------------------------
+59.07 | 91.29 97.30 78.00  0.09 18.17 50.89 37.66 73.93 84.08 56.81 68.31 60.17 51.26 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 96****
+Step 00048050 L_out=0.970 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  476.30 ms/batch
+Step 00048100 L_out=0.898 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  483.02 ms/batch
+Step 00048150 L_out=1.176 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  476.71 ms/batch
+Step 00048200 L_out=1.018 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  490.89 ms/batch
+Step 00048250 L_out=0.754 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  485.66 ms/batch
+Step 00048300 L_out=1.059 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.67---  492.92 ms/batch
+Step 00048350 L_out=1.104 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.64---  467.70 ms/batch
+Step 00048400 L_out=0.626 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  479.11 ms/batch
+Step 00048450 L_out=0.919 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  482.64 ms/batch
+Step 00048500 L_out=0.871 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.68---  487.18 ms/batch
+eval accuracy: 0.8530336059570313
+mean IOU:0.5891507177306866
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.92 | 91.08 97.14 78.14  0.02 17.41 50.47 38.35 74.11 83.90 55.24 67.96 61.27 50.79 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 97****
+Step 00048550 L_out=0.735 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  482.49 ms/batch
+Step 00048600 L_out=0.762 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  476.66 ms/batch
+Step 00048650 L_out=0.693 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  481.55 ms/batch
+Step 00048700 L_out=0.753 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  478.45 ms/batch
+Step 00048750 L_out=0.942 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  484.78 ms/batch
+Step 00048800 L_out=0.710 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  475.77 ms/batch
+Step 00048850 L_out=0.819 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.65---  494.02 ms/batch
+Step 00048900 L_out=1.295 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  485.51 ms/batch
+Step 00048950 L_out=0.668 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.65---  478.69 ms/batch
+Step 00049000 L_out=1.135 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.66---  478.73 ms/batch
+eval accuracy: 0.8531308959960937
+mean IOU:0.5894839311221016
+Mean IoU = 58.9%
+--------------------------------------------------------------------------------------
+58.95 | 91.20 97.27 78.05  0.06 18.84 51.30 37.39 73.93 83.88 55.38 68.11 59.96 50.97 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 98****
+Step 00049050 L_out=0.878 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  492.22 ms/batch
+Step 00049100 L_out=1.501 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.66---  482.32 ms/batch
+Step 00049150 L_out=0.795 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  492.67 ms/batch
+Step 00049200 L_out=0.766 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  489.64 ms/batch
+Step 00049250 L_out=1.141 Acc=0.94 L_var=0.00 L_dis=0.00 L_reg=0.68---  486.62 ms/batch
+Step 00049300 L_out=0.589 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  465.49 ms/batch
+Step 00049350 L_out=0.990 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  497.45 ms/batch
+Step 00049400 L_out=0.975 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  484.96 ms/batch
+Step 00049450 L_out=0.681 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  508.22 ms/batch
+Step 00049500 L_out=0.660 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  478.71 ms/batch
+eval accuracy: 0.8532782348632812
+mean IOU:0.588284533583163
+Mean IoU = 58.8%
+--------------------------------------------------------------------------------------
+58.83 | 91.21 97.09 78.00  0.05 18.82 51.07 37.47 73.68 83.68 53.99 68.12 60.48 51.11 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 99****
+Step 00049550 L_out=0.772 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.67---  474.66 ms/batch
+Step 00049600 L_out=0.931 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.65---  482.12 ms/batch
+Step 00049650 L_out=0.668 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  487.95 ms/batch
+Step 00049700 L_out=0.784 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  481.15 ms/batch
+Step 00049750 L_out=0.629 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  470.80 ms/batch
+Step 00049800 L_out=1.131 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  481.22 ms/batch
+Step 00049850 L_out=0.813 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.66---  494.39 ms/batch
+Step 00049900 L_out=0.871 Acc=0.95 L_var=0.00 L_dis=0.00 L_reg=0.67---  481.75 ms/batch
+Step 00049950 L_out=0.544 Acc=0.97 L_var=0.00 L_dis=0.00 L_reg=0.66---  508.65 ms/batch
+Step 00050000 L_out=0.859 Acc=0.96 L_var=0.00 L_dis=0.00 L_reg=0.66---  488.51 ms/batch
+eval accuracy: 0.8534411865234375
+mean IOU:0.5966411581303819
+Mean IoU = 59.7%
+--------------------------------------------------------------------------------------
+59.66 | 91.20 97.35 78.14  0.02 19.62 51.37 36.99 73.86 83.25 63.72 68.13 61.40 50.59 
+--------------------------------------------------------------------------------------
+
+Best m_IoU is: 59.928
+Best epoch is: 69
+Best step is: 35001
+****EPOCH 100****
